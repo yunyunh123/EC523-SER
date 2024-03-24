@@ -81,6 +81,161 @@ def _get_cremad_info(pdir):
         raise FileNotFoundError("Download the cremad dataset")
         return None
 
+def _get_ravdess_info(pdir):
+    datadir = os.path.join(pdir, 'ravdess-emotional-speech-audio')
+    if os.path.exists(datadir):
+        wav_list = glob.glob(os.path.join(datadir, '**', '*.wav'))
+        emo_intensities = {
+            "01": "normal",
+            "02": "strong",
+        }
+        emotions_dict = {
+            "03": "happy",
+            "05": "anger",
+            "07": "disgust",
+            "04": "sadness",
+            "01": "neutral",
+            "02": "calm",
+            "06": "fear",
+            "08": "surprise"
+        }
+        version_dict = {
+            "01": "speech",
+            "02": "song"
+        }
+        l = []
+        for f in wav_list:
+            new_row = {}
+            fname = os.path.basename(f)
+            mod, vocal, emotion, intensity, statement, rep, actor = fname.rstrip(".wav").split("-")
+            new_row['filename'] = f
+            new_row['speaker_n'] = int(actor)
+            new_row['language'] = "english"
+            new_row["emotion"] = emotions_dict[emotion]
+            new_row['version'] = version_dict[vocal] + "_" + rep
+            new_row["database"] = "ravdess"
+            new_row["intensity"] = emo_intensities[intensity]
+            l.append(new_row)
+
+        return pd.DataFrame(l)
+    else:
+        raise FileNotFoundError("Download the ravdess dataset")
+        return None
+
+def _get_savee_info(pdir):
+    datadir = os.path.join(pdir, 'savee-database','AudioData')
+    if os.path.exists(datadir):
+        wav_list = glob.glob(os.path.join(datadir, '**', '*.wav'))
+        emotions_dict = {
+            "h": "happy",
+            "a": "anger",
+            "d": "disgust",
+            "sa": "sadness",
+            "n": "neutral",
+            "f": "fear",
+            "su": "surprise"
+        }
+        spkr_dict = {
+            "DC": 1,
+            "JE": 2,
+            "JK": 3,
+            "KL": 4
+        }
+        l = []
+        for f in wav_list:
+            new_row = {}
+            dir_list = f.split(os.sep)
+            fname = dir_list[-1]
+            spkr = dir_list[-2]
+            if len(fname) == 7:
+                emotion = emotions_dict[fname[0]]
+                version = fname[1:3]
+            else:
+                emotion = emotions_dict[fname[0:2]]
+                version = fname[2:4]
+
+            new_row['filename'] = f
+            new_row['speaker_n'] = spkr_dict[spkr]
+            new_row['language'] = "english"
+            new_row["emotion"] = emotion
+            new_row['version'] = version
+            new_row["database"] = "savee"
+            new_row["intensity"] = "NA"
+            l.append(new_row)
+
+        return pd.DataFrame(l)
+    else:
+        raise FileNotFoundError("Download the savee dataset")
+        return None
+
+def _get_tess_info(pdir):
+    datadir = os.path.join(pdir, 'toronto-emotional-speech-set-tess','TESS Toronto emotional speech set data')
+    if os.path.exists(datadir):
+        wav_list = glob.glob(os.path.join(datadir, '**', '*.wav'))
+        emotions_dict = {
+            "happy": "happy",
+            "angry": "anger",
+            "disgust": "disgust",
+            "sad": "sadness",
+            "neutral": "neutral",
+            "fear": "fear",
+            "ps": "surprise"
+        }
+        spkr_dict = {
+            "oaf": 1,
+            "oa": 1,
+            "yaf": 2,
+        }
+        l = []
+        for f in wav_list:
+            new_row = {}
+            fname = os.path.basename(f).lower()
+            spkr, version, emotion = fname.rstrip(".wav").split("_")
+            new_row['filename'] = f
+            new_row['speaker_n'] = spkr_dict[spkr]
+            new_row['language'] = "english"
+            new_row["emotion"] = emotions_dict[emotion]
+            new_row['version'] = version
+            new_row["database"] = "tess"
+            new_row["intensity"] = "NA"
+            l.append(new_row)
+
+        return pd.DataFrame(l)
+    else:
+        raise FileNotFoundError("Download the tess dataset")
+        return None
+
+
+def _get_shemo_info(pdir):
+    datadir = os.path.join(pdir, 'shemo-persian-speech-emotion-detection-database')
+    if os.path.exists(datadir):
+        wav_list = glob.glob(os.path.join(datadir, '**', '*.wav'))
+        emotions_dict = {
+            "h": "happy",
+            "a": "anger",
+            "s": "sadness",
+            "w": "surprise",
+            "f": "fear",
+            "n": "neutral"
+        }
+        l = []
+        for f in wav_list:
+            new_row = {}
+            fname = os.path.basename(f).lower()
+            new_row['filename'] = f
+            new_row['speaker_n'] = fname[1:3]
+            new_row['language'] = "persian"
+            new_row["emotion"] = emotions_dict[fname[3]]
+            new_row['version'] = int(fname[4:6])
+            new_row["database"] = "shemo"
+            new_row["intensity"] = "NA"
+            l.append(new_row)
+
+        return pd.DataFrame(l)
+    else:
+        raise FileNotFoundError("Download the shemo dataset")
+        return None
+
 #endregion
 
 
@@ -91,20 +246,24 @@ DATASETS = {
         "get": _get_emodb_info
     },
     "tess": {
-        "url": "https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess"
+        "url": "https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess",
+        "get": _get_tess_info
     },
     "cremad": {
         "url": "https://www.kaggle.com/datasets/ejlok1/cremad",
         "get": _get_cremad_info
     },
     "ravdess": {
-        "url": "https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio"
+        "url": "https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio",
+        "get": _get_ravdess_info
     },
     "savee": {
-        "url": "https://www.kaggle.com/datasets/barelydedicated/savee-database"
+        "url": "https://www.kaggle.com/datasets/barelydedicated/savee-database",
+        "get": _get_savee_info
     },
     "shemo": {
-        "url": "https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database"
+        "url": "https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database",
+        "get": _get_shemo_info
     }
 }
 
