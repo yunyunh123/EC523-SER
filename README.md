@@ -37,3 +37,24 @@ print(label)
 # Put into a dataloader
 trainloader = DataLoader(trainset, batch_size=4, shuffle=True, num_workers=1)
 ```
+
+Datasets currently being used:
+* EMODB (german)
+* CREMAD (english)
+* RAVDESS (english)
+* SAVEE (english)
+* TESS (english)
+* SHEMO (persian)
+
+
+Emotions in datasets:
+* neutral
+* happy
+* sadness
+* disgust
+* anger
+* surprise
+* fear
+* anxiety
+* bored
+* calm

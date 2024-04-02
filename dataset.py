@@ -6,6 +6,20 @@ import pandas as pd
 import os
 import glob
 
+
+EMOTIONS = {
+    "neutral": 0,
+    "happy": 1,
+    "sadness": 2,
+    "disgust": 3,
+    "anger": 4,
+    "surprise": 5,
+    "fear": 6,
+    "anxiety": 7,
+    "bored": 8,
+    "calm": 9
+}
+
 #-------------------------------
 #region read datasets into pandas dataframe
 
