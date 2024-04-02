@@ -1,6 +1,10 @@
 # MAC
 .DS_Store
 
+# For people to use but not commit
+datasets/*
+scratch/*
+
 #----------------------------------------
 
 # Byte-compiled / optimized / DLL files
