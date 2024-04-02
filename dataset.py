@@ -5,7 +5,7 @@ import torchaudio
 import pandas as pd
 import os
 import glob
-
+import numpy as np
 
 EMOTIONS = {
     "neutral": 0,
@@ -19,6 +19,18 @@ EMOTIONS = {
     "bored": 8,
     "calm": 9
 }
+
+def emo2onehot(emotion):
+    """
+    Convert emotion string to one-hot vector
+    :param emotion: string
+    :return: numpy.array
+    """
+    v = np.zeros(len(EMOTIONS))
+    emonum = EMOTIONS[emotion]
+    if emonum != 0:
+        v[emonum-1] = 1
+    return v
 
 #-------------------------------
 #region read datasets into pandas dataframe
