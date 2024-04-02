@@ -5,6 +5,7 @@ import torchaudio
 import pandas as pd
 import os
 import glob
+import librosa
 
 #-------------------------------
 #region read datasets into pandas dataframe
@@ -394,4 +395,44 @@ def get_dataset_info(pdir,dname=None):
 
     return df
 
+def extract_dataset_features(data_filepath, df, dname=None):
+    """
+    param data_filepath : folder that contains all of the .wav files from a single database
+    param df : dataframe that is the output of the get_dataset_info() function
+    """
+    
+    import librosa
+    import numpy as np
+    
+    if data_filepath[-1] != "/":
+        data_filepath = data_filepath + "/"
+    
+    # needs "/" at end of filepath
+    #data_filepath = "/home/arthurus-rex/Documents/EC523/Project/berlin-database-of-emotional-speech-emodb/wav/"
+
+    database_name = "berlin-database-of-emotional-speech-emodb"
+    filenames_list = os.listdir(data_filepath) # filenames without full filepath
+    full_filenames_list = [data_filepath + filename for filename in filenames_list] # adding full filepath
+    
+    features_df = pd.DataFrame(columns=['filename', 'mfccs', 'rms', 'zcr', 'emotion'])
+
+    # works for a single folder of audio files at once, all from the same dataset
+    for i, filename in enumerate(full_filenames_list):
+        X, sample_rate = librosa.load(filename) # load waveform
+        
+        mfccs = np.mean(librosa.feature.mfcc(y=X, n_mfcc=25,), axis = 0) # calculate feature values
+        rms = librosa.feature.rms(y=X)
+        zcr = librosa.feature.zero_crossing_rate(y=X)
+        
+        features_df.at[i, 'mfccs'] = mfccs # save X features to dataframe
+        features_df.at[i, 'rms'] = np.array(rms)
+        features_df.at[i, 'zcr'] = np.array(zcr)
+    
+        row_index = df.loc[df['filename'] == filename].index[0] # finding the correct emotion for the filename
+        features_df.at[i, 'emotion'] = df.at[row_index,'emotion'] # selects correct emotion from Noah's df
+    
+        split_name = filename.split('/') # get the correct filename
+        features_df.at[i, 'filename'] = split_name[-1]
+    
+    return features_df
 #endregion
