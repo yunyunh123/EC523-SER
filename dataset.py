@@ -26,7 +26,8 @@ def emo2onehot(emotion):
     :param emotion: string
     :return: numpy.array
     """
-    v = np.zeros(len(EMOTIONS))
+    #v = np.zeros(len(EMOTIONS))
+    v = torch.zeros(len(EMOTIONS), dtype=torch.uint8)
     emonum = EMOTIONS[emotion]
     if emonum != 0:
         v[emonum-1] = 1
@@ -323,10 +324,11 @@ def download_datasets(pdir,dname=None):
 class SpeechEmotionDataset(Dataset):
     """Speech emotion dataset."""
 
-    def __init__(self, dataframe, fs=None, transform=None):
+    def __init__(self, dataframe, fs=None, transform=None, onehot=True):
         self.dataframe = dataframe
         self.transform_fs = fs
         self.transform = transform
+        self.onehot = onehot
 
     def __len__(self):
         return len(self.dataframe)
@@ -385,6 +387,9 @@ class SpeechEmotionDataset(Dataset):
 
         idx_data["audio"] = aud
         idx_data["fs"] = fs
+
+        if self.onehot:
+            idx_data["emotion"] = emo2onehot(idx_data["emotion"])
 
         if return_all:
           return idx_data
