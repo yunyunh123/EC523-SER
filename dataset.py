@@ -6,6 +6,7 @@ import pandas as pd
 import os
 import glob
 import numpy as np
+import random
 
 EMOTIONS = {
     "neutral": 0,
@@ -324,11 +325,13 @@ def download_datasets(pdir,dname=None):
 class SpeechEmotionDataset(Dataset):
     """Speech emotion dataset."""
 
-    def __init__(self, dataframe, fs=None, transform=None, onehot=True):
+    def __init__(self, dataframe, fs=None, transform=None, onehot=True, train=True, size=1.0):
         self.dataframe = dataframe
         self.transform_fs = fs
         self.transform = transform
         self.onehot = onehot
+        self.train = train
+        self.size = 1.0  # in seconds, for audio truncating
 
     def __len__(self):
         return len(self.dataframe)
@@ -342,7 +345,7 @@ class SpeechEmotionDataset(Dataset):
         if resample_fs is not None:
           aud = torchaudio.functional.resample(aud,fs,resample_fs)
           fs = resample_fs
-
+          aud = self._truncate_audio(aud, self.size, fs) # truncates audio
         return aud, fs
 
     def _read_wav_scipy(self,fname, resample_fs=None):
@@ -395,6 +398,29 @@ class SpeechEmotionDataset(Dataset):
           return idx_data
         else:
           return idx_data["audio"], idx_data["emotion"]
+    
+    def _truncate_audio(self, aud_in, time, fs):
+        """
+        Truncate waveform to standard size
+        """
+        end_index = int(time * fs)
+        aud_out = aud_in[0:end_index]
+        aud_out = aud_in
+        return aud_out
+
+def collate_fn(batch):
+    from torch.nn.utils.rnn import pad_sequence
+    import torch.nn.functional as F
+    # Get lengths of each text sequence
+    lengths = [len(x[0]) for x in batch]
+
+    # Pad longest sequence
+    padded_texts = [F.pad(torch.tensor(x[1]), pad=(0, max(lengths) - len(x[1]))) for x in batch]
+    padded_labels = [torch.tensor(x[1]) for x in batch]  # Assuming labels are numerical
+    padded_texts = torch.stack(padded_texts, dtype=torch.float32)
+    padded_labels = torch.stack(padded_labels, dtype=torch.float32)
+    # Combine into a batch
+    return padded_texts, padded_labels
 
 def get_dataset_info(pdir,dname=None):
     """
@@ -464,5 +490,170 @@ def extract_dataset_features(data_filepath, df, dname=None):
         split_name = filename.split('/') # get the correct filename
         features_df.at[i, 'filename'] = split_name[-1]
     
-    return features_df    
+    return features_df   
+
+
+class SoundDS(Dataset):
+    def __init__(self, df):
+        self.df = df
+        self.duration = 4000
+        self.sr = 16000
+        self.channel = 1
+        self.shift_pct = 0.4
+            
+    # ----------------------------
+    # Number of items in dataset
+    # ----------------------------
+    def __len__(self):
+        return len(self.df)    
+
+    # ----------------------------
+    # Get i'th item in dataset
+    # ----------------------------
+    def __getitem__(self, idx):
+        # Extracting filename and one-hot encoded emotions
+        filename = self.df.loc[idx, 'filename']
+        emotion_onehot = torch.tensor(self.df.loc[idx, 'emotion_onehot'], dtype=torch.float32)
+
+        audio = audio_preprocessing.read_file(filename)
+        # Some sounds have a higher sample rate, or fewer channels compared to the
+        # majority. So make all sounds have the same number of channels and same 
+        # sample rate. Unless the sample rate is the same, the pad_trunc will still
+        # result in arrays of different lengths, even though the sound duration is
+        # the same.
+        reaud = audio_preprocessing.set_sampling_rate(audio, self.sr)
+        rechan = audio_preprocessing.set_num_channel(reaud, self.channel)
+
+        dur_aud = audio_preprocessing.standardize_audio_length(rechan, self.duration)
+        shift_aud = audio_preprocessing.time_shift(dur_aud, self.shift_pct)
+        sgram = audio_preprocessing.generate_mfcc_spectrogram(shift_aud, n_mels=64, n_fft=1024, hop_len=None)
+        aug_sgram = audio_preprocessing.spectro_augment(sgram, max_mask_pct=0.1, n_freq_masks=2, n_time_masks=2)
+
+        return aug_sgram, emotion_onehot
+
+
+    
+"""
+Adapted from: https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5
+"""
+class audio_preprocessing():
+    def read_file(file):
+        signal, sample_rate = torchaudio.load(file)
+        
+        return (signal, sample_rate)
+    
+    # ----------------------------
+    # Standardize number of audio channels
+    # ---------------------------
+    def set_num_channel(audio, desired_num_channel):
+        signal, sample_rate = audio
+        
+        if(signal.shape[0] == desired_num_channel): # No change
+            return audio
+        
+        if(desired_num_channel == 1): # Converting stereo to mono
+            new_signal = signal[:1, :]
+        else:
+            new_signal = torch.cat([signal, signal])
+            
+        return ((new_signal, sample_rate))
+    
+    # ----------------------------
+    # Standardize sampling rate
+    # ---------------------------    
+    def set_sampling_rate(audio, new_sr):
+        signal, sampling_rate = audio
+        
+        if(sampling_rate == new_sr):
+            return audio
+        
+        num_channels = signal.shape[0]
+        
+        # Resampling first channel
+        channel_1 = torchaudio.transforms.Resample(sampling_rate, new_sr)(signal[:1,:])
+        
+        if (num_channels > 1):
+            # Resample the second channel and merge both channels
+            channel_2 = torchaudio.transforms.Resample(sampling_rate, new_sr)(signal[1:,:])
+            resample = torch.cat([channel_1, channel_2])
+        else:
+            resample = channel_1
+
+        return ((resample, new_sr))
+    
+    
+    # ----------------------------
+    # Standardize length of audio samples
+    # max_ms = milliseconds
+    # --------------------------- 
+    def standardize_audio_length(audio, max_ms):
+        signal, sampling_rate = audio
+        num_rows, signal_len = signal.shape
+        max_len = sampling_rate//1000 * max_ms
+
+        if (signal_len > max_len):
+          # Truncate the signal to the given length
+          signal = signal[:,:max_len]
+
+        elif (signal_len < max_len):
+            # Length of padding to add at the beginning and end of the signal
+            pad_begin_len = random.randint(0, max_len - signal_len)
+            pad_end_len = max_len - signal_len - pad_begin_len
+
+            # Pad with 0s
+            pad_begin = torch.zeros((num_rows, pad_begin_len))
+            pad_end = torch.zeros((num_rows, pad_end_len))
+
+            signal = torch.cat((pad_begin, signal, pad_end), 1)
+      
+        return (signal, sampling_rate)
+
+    # ----------------------------
+    # Shifts the signal to the left or right by some percent. Values at the end
+    # are 'wrapped around' to the start of the transformed signal.
+    # ----------------------------
+    def time_shift(audio, shift_limit): # Not sure if we need this
+        signal, sample_rate = audio
+        _, signal_len = signal.shape
+        shift_amt = int(random.random() * shift_limit * signal_len)
+        
+        return (signal.roll(shift_amt), sample_rate)
+    
+    # ----------------------------
+    # Generate a Spectrogram
+    # ----------------------------
+    def generate_mfcc_spectrogram(audio, n_mels=64, n_fft=1024, hop_len=None):
+        signal,sample_rate = audio
+        top_db = 80
+
+        # spec has shape [channel, n_mels, time], where channel is mono, stereo etc
+        spec = torchaudio.transforms.MelSpectrogram(sample_rate, n_fft=n_fft, hop_length=hop_len, n_mels=n_mels)(signal)
+
+        # Convert to decibels
+        spec = torchaudio.transforms.AmplitudeToDB(top_db=top_db)(spec)
+        
+        return (spec)
+    
+    # ----------------------------
+    # Augment the Spectrogram by masking out some sections of it in both the frequency
+    # dimension (ie. horizontal bars) and the time dimension (vertical bars) to prevent
+    # overfitting and to help the model generalise better. The masked sections are
+    # replaced with the mean value.
+    # ----------------------------
+    def spectro_augment(spec, max_mask_pct=0.1, n_freq_masks=1, n_time_masks=1):
+        _, n_mels, n_steps = spec.shape
+        mask_value = spec.mean()
+        aug_spec = spec
+
+        freq_mask_param = max_mask_pct * n_mels
+        for _ in range(n_freq_masks):
+            aug_spec = torchaudio.transforms.FrequencyMasking(freq_mask_param)(aug_spec, mask_value)
+
+        time_mask_param = max_mask_pct * n_steps
+        
+        for _ in range(n_time_masks):
+            aug_spec = torchaudio.transforms.TimeMasking(time_mask_param)(aug_spec, mask_value)
+
+        return aug_spec
+
 #endregion
