@@ -513,7 +513,12 @@ class SoundDS(Dataset):
     def __getitem__(self, idx):
         # Extracting filename and one-hot encoded emotions
         filename = self.df.loc[idx, 'filename']
-        emotion_onehot = torch.tensor(self.df.loc[idx, 'emotion_onehot'], dtype=torch.float32)
+        
+        if "emotion_onehot" not in self.df.columns:
+            emotion_onehot = emo2onehot(self.df.loc[idx, 'emotion'])
+            #print("didn't find 'emotion_onehot' column")
+        else:
+            emotion_onehot = torch.tensor(self.df.loc[idx, 'emotion_onehot'], dtype=torch.float32)
 
         audio = audio_preprocessing.read_file(filename)
         # Some sounds have a higher sample rate, or fewer channels compared to the
