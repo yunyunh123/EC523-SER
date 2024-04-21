@@ -28,7 +28,7 @@ def emo2onehot(emotion):
     :return: numpy.array
     """
     #v = np.zeros(len(EMOTIONS))
-    v = torch.zeros(len(EMOTIONS), dtype=torch.uint8)
+    v = torch.zeros(len(EMOTIONS))
     emonum = EMOTIONS[emotion]
     if emonum != 0:
         v[emonum-1] = 1
