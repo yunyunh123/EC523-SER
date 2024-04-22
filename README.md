@@ -46,6 +46,21 @@ Datasets currently being used:
 * TESS (english)
 * SHEMO (persian)
 
+| Emotion | Database | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | CREMAD | EMODB | RAVDESS | SAVEE | SHEMO | TESS |
+| anger | 1271 | 127 | 192 | 60 | 1059 | 400 |
+| anxiety | x | 69 | x | x | x | x |
+| bored | x | 81 | x | x | x | x |
+| calm | x | x | 192 | x | x | x |
+| disgust | 1271 | 46 | 192 | 60 | x | 400 |
+| fear | 1271 | x | 192 | 60 | 38 | 400 |
+| happy | 1271 | 71 | 192 | 60 | 201 | 400 |
+| neutral | 1087 | 79 | 96 | 120 | 1028 | 400 |
+| sadness | 1271 | 62 | 192 | 60 | 449 | 400 |
+| surprise | x | x | 192 | 60 | 225 | 400 |
+| Language: | English | German | English | English | Persian | English |
+
 
 Emotions in datasets:
 * neutral
