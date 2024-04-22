@@ -494,12 +494,14 @@ def extract_dataset_features(data_filepath, df, dname=None):
 
 
 class SoundDS(Dataset):
-    def __init__(self, df):
+    def __init__(self, df,transform=None):
         self.df = df
         self.duration = 4000
         self.sr = 16000
         self.channel = 1
         self.shift_pct = 0.4
+        self.transform = transform
+        
             
     # ----------------------------
     # Number of items in dataset
@@ -534,6 +536,10 @@ class SoundDS(Dataset):
         sgram = audio_preprocessing.generate_mfcc_spectrogram(shift_aud, n_mels=64, n_fft=1024, hop_len=None)
         aug_sgram = audio_preprocessing.spectro_augment(sgram, max_mask_pct=0.1, n_freq_masks=2, n_time_masks=2)
 
+        # Apply transformations
+        if self.transform:
+          aug_sgram = self.transform(aug_sgram)
+        
         return aug_sgram, emotion_onehot
 
 
