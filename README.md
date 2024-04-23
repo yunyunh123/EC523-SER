@@ -40,7 +40,7 @@ trainloader = DataLoader(trainset, batch_size=4, shuffle=True, num_workers=1)
 
 # Our experimental design
 
-We chose 6 popular databases of audio, each containing collections of raw audio with corresponding emotion labels.  Each dataset different emotion labels and different numbers of .wav files for each emotion, detailed in the table below:
+We chose 6 popular databases of audio, each containing collections of raw audio with corresponding emotion labels. Each dataset different emotion labels and different numbers of .wav files for each emotion, detailed in the table below:
 
 | Emotion | Datasets | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -64,3 +64,27 @@ Datasets used for this project:
 * SAVEE (english) - https://www.kaggle.com/datasets/barelydedicated/savee-database
 * TESS (english) - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 * SHEMO (persian) - https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database
+
+Then, we trained and fine-tined three different models (Wav2Vec, CNN, and S4) on these datasets (70% training, 20% testing, 10% validation).  Specifically, we used the four emotions common to all models ```[anger, happy, neutral, sadness]```, but the functionality exists to use all emotions independently within the code.
+
+# Our Models
+
+## Wav2Vec
+We adapted an existing Wav2Vec model and fine-tuned it on our specific datasets.
+https://huggingface.co/docs/transformers/model_doc/wav2vec2
+
+## CNN
+We built a CNN similar to the architecture described in the following source:
+```
+W. Alsabhan. Human-Computer Interaction with a Real-Time Speech Emotion Recognition with Ensembling Techniques 1D Convolution Neural Network with Attention, Sensors, 2023. https://doi.org/10.3390/s23031386
+```
+
+## S4
+We adapted the S4 implementation taken from the following repository:
+https://github.com/state-spaces/s4
+
+# Implementing our approach
+Each of our models is contained within its own Jupyter notebook and draws from the same functions specified in datasets.py.  The datasets must be downloaded locally before training, which can be done simply with the code sample above.
+
+
+
