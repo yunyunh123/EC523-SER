@@ -1,0 +1,1601 @@
+path	emotion	database	name
+./datasets/cremad/AudioWAV/1043_MTI_ANG_XX.wav	anger	cremad	1043_MTI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M09A02.wav	anger	shemo	M09A02.wav
+./datasets/cremad/AudioWAV/1044_IEO_HAP_LO.wav	happy	cremad	1044_IEO_HAP_LO.wav
+./datasets/savee-database/AudioData/KL/n10.wav	neutral	savee	n10.wav
+./datasets/cremad/AudioWAV/1010_IWL_NEU_XX.wav	neutral	cremad	1010_IWL_NEU_XX.wav
+./datasets/cremad/AudioWAV/1033_MTI_ANG_XX.wav	anger	cremad	1033_MTI_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_17/03-01-04-02-02-02-17.wav	sadness	ravdess	03-01-04-02-02-02-17.wav
+./datasets/cremad/AudioWAV/1010_IEO_ANG_MD.wav	anger	cremad	1010_IEO_ANG_MD.wav
+./datasets/cremad/AudioWAV/1014_ITH_NEU_XX.wav	neutral	cremad	1014_ITH_NEU_XX.wav
+./datasets/cremad/AudioWAV/1039_DFA_NEU_XX.wav	neutral	cremad	1039_DFA_NEU_XX.wav
+./datasets/cremad/AudioWAV/1089_IWL_SAD_XX.wav	sadness	cremad	1089_IWL_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M37N03.wav	neutral	shemo	M37N03.wav
+./datasets/cremad/AudioWAV/1003_TIE_SAD_XX.wav	sadness	cremad	1003_TIE_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_cheek_sad.wav	sadness	tess	YAF_cheek_sad.wav
+./datasets/cremad/AudioWAV/1039_WSI_SAD_XX.wav	sadness	cremad	1039_WSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47A04.wav	anger	shemo	M47A04.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M34A06.wav	anger	shemo	M34A06.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M19N01.wav	neutral	shemo	M19N01.wav
+./datasets/ravdess-emotional-speech-audio/Actor_16/03-01-05-02-02-02-16.wav	anger	ravdess	03-01-05-02-02-02-16.wav
+./datasets/savee-database/AudioData/JK/h15.wav	happy	savee	h15.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/16b02Fd.wav	happy	emodb	16b02Fd.wav
+./datasets/cremad/AudioWAV/1002_ITH_HAP_XX.wav	happy	cremad	1002_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1087_MTI_NEU_XX.wav	neutral	cremad	1087_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1007_MTI_SAD_XX.wav	sadness	cremad	1007_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1019_ITS_NEU_XX.wav	neutral	cremad	1019_ITS_NEU_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/13a02Fa.wav	happy	emodb	13a02Fa.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04A09.wav	anger	shemo	M04A09.wav
+./datasets/cremad/AudioWAV/1070_TSI_HAP_XX.wav	happy	cremad	1070_TSI_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-01-01-01-01-21.wav	neutral	ravdess	03-01-01-01-01-01-21.wav
+./datasets/cremad/AudioWAV/1057_IEO_HAP_HI.wav	happy	cremad	1057_IEO_HAP_HI.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/11b01Wd.wav	anger	emodb	11b01Wd.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21H02.wav	happy	shemo	F21H02.wav
+./datasets/cremad/AudioWAV/1002_MTI_NEU_XX.wav	neutral	cremad	1002_MTI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M20N03.wav	neutral	shemo	M20N03.wav
+./datasets/cremad/AudioWAV/1005_TSI_ANG_XX.wav	anger	cremad	1005_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1035_MTI_ANG_XX.wav	anger	cremad	1035_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1087_IWL_NEU_XX.wav	neutral	cremad	1087_IWL_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_loaf_neutral.wav	neutral	tess	OAF_loaf_neutral.wav
+./datasets/cremad/AudioWAV/1006_IEO_ANG_LO.wav	anger	cremad	1006_IEO_ANG_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28A39.wav	anger	shemo	M28A39.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_tough_happy.wav	happy	tess	YAF_tough_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M52S02.wav	sadness	shemo	M52S02.wav
+./datasets/cremad/AudioWAV/1030_MTI_HAP_XX.wav	happy	cremad	1030_MTI_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05A08.wav	anger	shemo	M05A08.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M27A01.wav	anger	shemo	M27A01.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M11H02.wav	happy	shemo	M11H02.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M06S06.wav	sadness	shemo	M06S06.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hate_happy.wav	happy	tess	YAF_hate_happy.wav
+./datasets/cremad/AudioWAV/1088_IEO_ANG_HI.wav	anger	cremad	1088_IEO_ANG_HI.wav
+./datasets/savee-database/AudioData/JK/a01.wav	anger	savee	a01.wav
+./datasets/ravdess-emotional-speech-audio/Actor_08/03-01-01-01-02-01-08.wav	neutral	ravdess	03-01-01-01-02-01-08.wav
+./datasets/cremad/AudioWAV/1024_IEO_ANG_MD.wav	anger	cremad	1024_IEO_ANG_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21A45.wav	anger	shemo	F21A45.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lease_angry.wav	anger	tess	YAF_lease_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F26N04.wav	neutral	shemo	F26N04.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07S16.wav	sadness	shemo	F07S16.wav
+./datasets/cremad/AudioWAV/1055_IEO_ANG_LO.wav	anger	cremad	1055_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1073_WSI_ANG_XX.wav	anger	cremad	1073_WSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1004_IEO_SAD_HI.wav	sadness	cremad	1004_IEO_SAD_HI.wav
+./datasets/cremad/AudioWAV/1076_IOM_NEU_XX.wav	neutral	cremad	1076_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1087_IEO_ANG_MD.wav	anger	cremad	1087_IEO_ANG_MD.wav
+./datasets/cremad/AudioWAV/1033_ITH_HAP_XX.wav	happy	cremad	1033_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A12.wav	anger	shemo	M53A12.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_pass_angry.wav	anger	tess	OAF_pass_angry.wav
+./datasets/cremad/AudioWAV/1085_MTI_ANG_XX.wav	anger	cremad	1085_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1089_IWW_SAD_XX.wav	sadness	cremad	1089_IWW_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_01/03-01-03-01-02-02-01.wav	happy	ravdess	03-01-03-01-02-02-01.wav
+./datasets/cremad/AudioWAV/1042_IEO_HAP_LO.wav	happy	cremad	1042_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1032_ITS_NEU_XX.wav	neutral	cremad	1032_ITS_NEU_XX.wav
+./datasets/cremad/AudioWAV/1046_DFA_HAP_XX.wav	happy	cremad	1046_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1067_TIE_ANG_XX.wav	anger	cremad	1067_TIE_ANG_XX.wav
+./datasets/cremad/AudioWAV/1082_IWW_NEU_XX.wav	neutral	cremad	1082_IWW_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_shall_sad.wav	sadness	tess	YAF_shall_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F29N03.wav	neutral	shemo	F29N03.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M21N02.wav	neutral	shemo	M21N02.wav
+./datasets/cremad/AudioWAV/1057_TIE_NEU_XX.wav	neutral	cremad	1057_TIE_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_kick_sad.wav	sadness	tess	OAF_kick_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12H01.wav	happy	shemo	M12H01.wav
+./datasets/cremad/AudioWAV/1046_MTI_HAP_XX.wav	happy	cremad	1046_MTI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1057_IWW_SAD_XX.wav	sadness	cremad	1057_IWW_SAD_XX.wav
+./datasets/cremad/AudioWAV/1077_TSI_NEU_XX.wav	neutral	cremad	1077_TSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1059_IOM_HAP_XX.wav	happy	cremad	1059_IOM_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M41H01.wav	happy	shemo	M41H01.wav
+./datasets/cremad/AudioWAV/1073_IWL_ANG_XX.wav	anger	cremad	1073_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1063_IWL_NEU_XX.wav	neutral	cremad	1063_IWL_NEU_XX.wav
+./datasets/cremad/AudioWAV/1004_ITS_NEU_XX.wav	neutral	cremad	1004_ITS_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21N22.wav	neutral	shemo	F21N22.wav
+./datasets/cremad/AudioWAV/1048_IEO_SAD_MD.wav	sadness	cremad	1048_IEO_SAD_MD.wav
+./datasets/ravdess-emotional-speech-audio/Actor_12/03-01-04-01-02-02-12.wav	sadness	ravdess	03-01-04-01-02-02-12.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M55N02.wav	neutral	shemo	M55N02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_search_neutral.wav	neutral	tess	OAF_search_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N04.wav	neutral	shemo	F19N04.wav
+./datasets/cremad/AudioWAV/1023_WSI_NEU_XX.wav	neutral	cremad	1023_WSI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_live_neutral.wav	neutral	tess	OAF_live_neutral.wav
+./datasets/cremad/AudioWAV/1057_IEO_HAP_LO.wav	happy	cremad	1057_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1037_IOM_SAD_XX.wav	sadness	cremad	1037_IOM_SAD_XX.wav
+./datasets/cremad/AudioWAV/1087_TAI_HAP_XX.wav	happy	cremad	1087_TAI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1088_IWL_SAD_XX.wav	sadness	cremad	1088_IWL_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25A69.wav	anger	shemo	M25A69.wav
+./datasets/ravdess-emotional-speech-audio/Actor_19/03-01-04-01-01-01-19.wav	sadness	ravdess	03-01-04-01-01-01-19.wav
+./datasets/cremad/AudioWAV/1048_DFA_NEU_XX.wav	neutral	cremad	1048_DFA_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_16/03-01-04-01-02-02-16.wav	sadness	ravdess	03-01-04-01-02-02-16.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F28A15.wav	anger	shemo	F28A15.wav
+./datasets/cremad/AudioWAV/1013_TAI_HAP_XX.wav	happy	cremad	1013_TAI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1044_TAI_NEU_XX.wav	neutral	cremad	1044_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1005_ITH_HAP_XX.wav	happy	cremad	1005_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1031_ITS_SAD_XX.wav	sadness	cremad	1031_ITS_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_10/03-01-05-01-01-01-10.wav	anger	ravdess	03-01-05-01-01-01-10.wav
+./datasets/cremad/AudioWAV/1042_MTI_NEU_XX.wav	neutral	cremad	1042_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1006_TAI_SAD_XX.wav	sadness	cremad	1006_TAI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_mill_happy.wav	happy	tess	OAF_mill_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A33.wav	anger	shemo	M12A33.wav
+./datasets/cremad/AudioWAV/1011_ITS_HAP_XX.wav	happy	cremad	1011_ITS_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26S05.wav	sadness	shemo	M26S05.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F13A20.wav	anger	shemo	F13A20.wav
+./datasets/cremad/AudioWAV/1004_IOM_ANG_XX.wav	anger	cremad	1004_IOM_ANG_XX.wav
+./datasets/cremad/AudioWAV/1066_TAI_SAD_XX.wav	sadness	cremad	1066_TAI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N63.wav	neutral	shemo	M04N63.wav
+./datasets/cremad/AudioWAV/1050_MTI_NEU_XX.wav	neutral	cremad	1050_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1053_IEO_HAP_MD.wav	happy	cremad	1053_IEO_HAP_MD.wav
+./datasets/cremad/AudioWAV/1075_IOM_HAP_XX.wav	happy	cremad	1075_IOM_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-05-02-01-01-03.wav	anger	ravdess	03-01-05-02-01-01-03.wav
+./datasets/cremad/AudioWAV/1028_IOM_ANG_XX.wav	anger	cremad	1028_IOM_ANG_XX.wav
+./datasets/cremad/AudioWAV/1047_MTI_SAD_XX.wav	sadness	cremad	1047_MTI_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-04-01-02-01-15.wav	sadness	ravdess	03-01-04-01-02-01-15.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_youth_sad.wav	sadness	tess	YAF_youth_sad.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08b03Fe.wav	happy	emodb	08b03Fe.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_ton_angry.wav	anger	tess	YAF_ton_angry.wav
+./datasets/cremad/AudioWAV/1079_IEO_SAD_MD.wav	sadness	cremad	1079_IEO_SAD_MD.wav
+./datasets/savee-database/AudioData/JE/h14.wav	happy	savee	h14.wav
+./datasets/cremad/AudioWAV/1072_IEO_HAP_HI.wav	happy	cremad	1072_IEO_HAP_HI.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/03b10Nc.wav	neutral	emodb	03b10Nc.wav
+./datasets/cremad/AudioWAV/1044_IEO_SAD_HI.wav	sadness	cremad	1044_IEO_SAD_HI.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_young_angry.wav	anger	tess	OAF_young_angry.wav
+./datasets/savee-database/AudioData/KL/n07.wav	neutral	savee	n07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25A03.wav	anger	shemo	M25A03.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M29A10.wav	anger	shemo	M29A10.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_tip_sad.wav	sadness	tess	YAF_tip_sad.wav
+./datasets/cremad/AudioWAV/1069_IEO_ANG_LO.wav	anger	cremad	1069_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1058_TAI_NEU_XX.wav	neutral	cremad	1058_TAI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26A04.wav	anger	shemo	M26A04.wav
+./datasets/cremad/AudioWAV/1078_IOM_NEU_XX.wav	neutral	cremad	1078_IOM_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M43A02.wav	anger	shemo	M43A02.wav
+./datasets/cremad/AudioWAV/1080_TIE_ANG_XX.wav	anger	cremad	1080_TIE_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24H19.wav	happy	shemo	F24H19.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_whip_happy.wav	happy	tess	YAF_whip_happy.wav
+./datasets/cremad/AudioWAV/1074_IOM_HAP_XX.wav	happy	cremad	1074_IOM_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F22S02.wav	sadness	shemo	F22S02.wav
+./datasets/cremad/AudioWAV/1038_MTI_HAP_XX.wav	happy	cremad	1038_MTI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1030_TIE_SAD_XX.wav	sadness	cremad	1030_TIE_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_home_angry.wav	anger	tess	OAF_home_angry.wav
+./datasets/cremad/AudioWAV/1029_MTI_ANG_XX.wav	anger	cremad	1029_MTI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M45N05.wav	neutral	shemo	M45N05.wav
+./datasets/cremad/AudioWAV/1024_WSI_NEU_XX.wav	neutral	cremad	1024_WSI_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_20/03-01-01-01-02-02-20.wav	neutral	ravdess	03-01-01-01-02-02-20.wav
+./datasets/cremad/AudioWAV/1020_IEO_HAP_LO.wav	happy	cremad	1020_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1017_MTI_HAP_XX.wav	happy	cremad	1017_MTI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1057_IEO_SAD_MD.wav	sadness	cremad	1057_IEO_SAD_MD.wav
+./datasets/ravdess-emotional-speech-audio/Actor_01/03-01-04-02-01-02-01.wav	sadness	ravdess	03-01-04-02-01-02-01.wav
+./datasets/cremad/AudioWAV/1082_TIE_SAD_XX.wav	sadness	cremad	1082_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1053_WSI_SAD_XX.wav	sadness	cremad	1053_WSI_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_18/03-01-03-02-02-02-18.wav	happy	ravdess	03-01-03-02-02-02-18.wav
+./datasets/cremad/AudioWAV/1088_IEO_HAP_HI.wav	happy	cremad	1088_IEO_HAP_HI.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_week_happy.wav	happy	tess	OAF_week_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_phone_sad.wav	sadness	tess	OAF_phone_sad.wav
+./datasets/cremad/AudioWAV/1076_IOM_SAD_XX.wav	sadness	cremad	1076_IOM_SAD_XX.wav
+./datasets/cremad/AudioWAV/1034_IWW_ANG_XX.wav	anger	cremad	1034_IWW_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N61.wav	neutral	shemo	M04N61.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23A03.wav	anger	shemo	F23A03.wav
+./datasets/ravdess-emotional-speech-audio/Actor_09/03-01-05-02-01-02-09.wav	anger	ravdess	03-01-05-02-01-02-09.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_shall_happy.wav	happy	tess	YAF_shall_happy.wav
+./datasets/cremad/AudioWAV/1081_IOM_ANG_XX.wav	anger	cremad	1081_IOM_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N47.wav	neutral	shemo	F05N47.wav
+./datasets/cremad/AudioWAV/1054_IEO_ANG_LO.wav	anger	cremad	1054_IEO_ANG_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N16.wav	neutral	shemo	M04N16.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M18N09.wav	neutral	shemo	M18N09.wav
+./datasets/cremad/AudioWAV/1064_IEO_HAP_MD.wav	happy	cremad	1064_IEO_HAP_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F29N07.wav	neutral	shemo	F29N07.wav
+./datasets/savee-database/AudioData/DC/h01.wav	happy	savee	h01.wav
+./datasets/cremad/AudioWAV/1085_TAI_SAD_XX.wav	sadness	cremad	1085_TAI_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_04/03-01-03-01-01-01-04.wav	happy	ravdess	03-01-03-01-01-01-04.wav
+./datasets/cremad/AudioWAV/1069_IOM_NEU_XX.wav	neutral	cremad	1069_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1067_IWW_ANG_XX.wav	anger	cremad	1067_IWW_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05N01.wav	neutral	shemo	M05N01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_cool_happy.wav	happy	tess	OAF_cool_happy.wav
+./datasets/cremad/AudioWAV/1011_ITH_SAD_XX.wav	sadness	cremad	1011_ITH_SAD_XX.wav
+./datasets/cremad/AudioWAV/1056_IEO_ANG_LO.wav	anger	cremad	1056_IEO_ANG_LO.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_shirt_happy.wav	happy	tess	OAF_shirt_happy.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/15b02Wc.wav	anger	emodb	15b02Wc.wav
+./datasets/ravdess-emotional-speech-audio/Actor_17/03-01-04-01-01-02-17.wav	sadness	ravdess	03-01-04-01-01-02-17.wav
+./datasets/cremad/AudioWAV/1041_IWW_HAP_XX.wav	happy	cremad	1041_IWW_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_merge_angry.wav	anger	tess	OAF_merge_angry.wav
+./datasets/cremad/AudioWAV/1021_ITS_SAD_XX.wav	sadness	cremad	1021_ITS_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_white_neutral.wav	neutral	tess	YAF_white_neutral.wav
+./datasets/cremad/AudioWAV/1025_IOM_HAP_XX.wav	happy	cremad	1025_IOM_HAP_XX.wav
+./datasets/cremad/AudioWAV/1011_WSI_ANG_XX.wav	anger	cremad	1011_WSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1016_IEO_ANG_HI.wav	anger	cremad	1016_IEO_ANG_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21S01.wav	sadness	shemo	F21S01.wav
+./datasets/cremad/AudioWAV/1062_TSI_NEU_XX.wav	neutral	cremad	1062_TSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M08N05.wav	neutral	shemo	M08N05.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_far_angry.wav	anger	tess	OAF_far_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05S06.wav	sadness	shemo	M05S06.wav
+./datasets/cremad/AudioWAV/1067_WSI_SAD_XX.wav	sadness	cremad	1067_WSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N60.wav	neutral	shemo	M12N60.wav
+./datasets/cremad/AudioWAV/1033_IEO_ANG_LO.wav	anger	cremad	1033_IEO_ANG_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M16A28.wav	anger	shemo	M16A28.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05A06.wav	anger	shemo	M05A06.wav
+./datasets/cremad/AudioWAV/1025_IOM_SAD_XX.wav	sadness	cremad	1025_IOM_SAD_XX.wav
+./datasets/cremad/AudioWAV/1052_IEO_HAP_LO.wav	happy	cremad	1052_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1044_IOM_HAP_XX.wav	happy	cremad	1044_IOM_HAP_XX.wav
+./datasets/cremad/AudioWAV/1049_ITS_ANG_XX.wav	anger	cremad	1049_ITS_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F01H01.wav	happy	shemo	F01H01.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M43N03.wav	neutral	shemo	M43N03.wav
+./datasets/cremad/AudioWAV/1004_WSI_SAD_XX.wav	sadness	cremad	1004_WSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1007_DFA_HAP_XX.wav	happy	cremad	1007_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1028_TAI_NEU_XX.wav	neutral	cremad	1028_TAI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24S15.wav	sadness	shemo	F24S15.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M32N03.wav	neutral	shemo	M32N03.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_pool_neutral.wav	neutral	tess	YAF_pool_neutral.wav
+./datasets/cremad/AudioWAV/1026_IEO_SAD_LO.wav	sadness	cremad	1026_IEO_SAD_LO.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_phone_neutral.wav	neutral	tess	YAF_phone_neutral.wav
+./datasets/cremad/AudioWAV/1055_IWL_SAD_XX.wav	sadness	cremad	1055_IWL_SAD_XX.wav
+./datasets/cremad/AudioWAV/1077_IEO_SAD_HI.wav	sadness	cremad	1077_IEO_SAD_HI.wav
+./datasets/cremad/AudioWAV/1079_ITS_NEU_XX.wav	neutral	cremad	1079_ITS_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-04-02-02-02-03.wav	sadness	ravdess	03-01-04-02-02-02-03.wav
+./datasets/cremad/AudioWAV/1035_ITH_HAP_XX.wav	happy	cremad	1035_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A36.wav	anger	shemo	F10A36.wav
+./datasets/cremad/AudioWAV/1082_IEO_NEU_XX.wav	neutral	cremad	1082_IEO_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24N01.wav	neutral	shemo	F24N01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_chat_neutral.wav	neutral	tess	OAF_chat_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_keg_neutral.wav	neutral	tess	YAF_keg_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_deep_happy.wav	happy	tess	YAF_deep_happy.wav
+./datasets/cremad/AudioWAV/1024_ITH_HAP_XX.wav	happy	cremad	1024_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1086_MTI_NEU_XX.wav	neutral	cremad	1086_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1082_TIE_HAP_XX.wav	happy	cremad	1082_TIE_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A60.wav	anger	shemo	F24A60.wav
+./datasets/cremad/AudioWAV/1024_TAI_ANG_XX.wav	anger	cremad	1024_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1057_ITH_HAP_XX.wav	happy	cremad	1057_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M06S07.wav	sadness	shemo	M06S07.wav
+./datasets/cremad/AudioWAV/1070_IOM_ANG_XX.wav	anger	cremad	1070_IOM_ANG_XX.wav
+./datasets/cremad/AudioWAV/1033_ITS_HAP_XX.wav	happy	cremad	1033_ITS_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_mode_neutral.wav	neutral	tess	OAF_mode_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_take_happy.wav	happy	tess	YAF_take_happy.wav
+./datasets/cremad/AudioWAV/1011_TSI_ANG_XX.wav	anger	cremad	1011_TSI_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_dab_neutral.wav	neutral	tess	YAF_dab_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N78.wav	neutral	shemo	M12N78.wav
+./datasets/cremad/AudioWAV/1030_IOM_NEU_XX.wav	neutral	cremad	1030_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1077_TAI_HAP_XX.wav	happy	cremad	1077_TAI_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M42A11.wav	anger	shemo	M42A11.wav
+./datasets/cremad/AudioWAV/1025_IWL_NEU_XX.wav	neutral	cremad	1025_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F25A02.wav	anger	shemo	F25A02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bean_angry.wav	anger	tess	YAF_bean_angry.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bar_angry.wav	anger	tess	YAF_bar_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M56A01.wav	anger	shemo	M56A01.wav
+./datasets/cremad/AudioWAV/1082_WSI_ANG_XX.wav	anger	cremad	1082_WSI_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_cheek_happy.wav	happy	tess	YAF_cheek_happy.wav
+./datasets/savee-database/AudioData/KL/sa15.wav	sadness	savee	sa15.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F12N09.wav	neutral	shemo	F12N09.wav
+./datasets/cremad/AudioWAV/1012_DFA_ANG_XX.wav	anger	cremad	1012_DFA_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M22N15.wav	neutral	shemo	M22N15.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24N11.wav	neutral	shemo	F24N11.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F15A02.wav	anger	shemo	F15A02.wav
+./datasets/savee-database/AudioData/DC/n12.wav	neutral	savee	n12.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/14a07Na.wav	neutral	emodb	14a07Na.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M20N02.wav	neutral	shemo	M20N02.wav
+./datasets/cremad/AudioWAV/1032_IWW_NEU_XX.wav	neutral	cremad	1032_IWW_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M46N07.wav	neutral	shemo	M46N07.wav
+./datasets/cremad/AudioWAV/1063_IEO_SAD_MD.wav	sadness	cremad	1063_IEO_SAD_MD.wav
+./datasets/ravdess-emotional-speech-audio/Actor_10/03-01-05-02-01-01-10.wav	anger	ravdess	03-01-05-02-01-01-10.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M27N25.wav	neutral	shemo	M27N25.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_nag_happy.wav	happy	tess	YAF_nag_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N50.wav	neutral	shemo	M04N50.wav
+./datasets/cremad/AudioWAV/1085_DFA_SAD_XX.wav	sadness	cremad	1085_DFA_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_08/03-01-03-01-01-01-08.wav	happy	ravdess	03-01-03-01-01-01-08.wav
+./datasets/cremad/AudioWAV/1077_IWL_NEU_XX.wav	neutral	cremad	1077_IWL_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_05/03-01-04-02-01-01-05.wav	sadness	ravdess	03-01-04-02-01-01-05.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04S01.wav	sadness	shemo	M04S01.wav
+./datasets/cremad/AudioWAV/1035_DFA_NEU_XX.wav	neutral	cremad	1035_DFA_NEU_XX.wav
+./datasets/cremad/AudioWAV/1076_IWL_NEU_XX.wav	neutral	cremad	1076_IWL_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_team_sad.wav	sadness	tess	OAF_team_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09S04.wav	sadness	shemo	F09S04.wav
+./datasets/ravdess-emotional-speech-audio/Actor_10/03-01-03-02-01-01-10.wav	happy	ravdess	03-01-03-02-01-01-10.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_ring_happy.wav	happy	tess	OAF_ring_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M40N05.wav	neutral	shemo	M40N05.wav
+./datasets/cremad/AudioWAV/1013_ITH_NEU_XX.wav	neutral	cremad	1013_ITH_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_14/03-01-01-01-02-02-14.wav	neutral	ravdess	03-01-01-01-02-02-14.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_dab_neutral.wav	neutral	tess	OAF_dab_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03A18.wav	anger	shemo	M03A18.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12S07.wav	sadness	shemo	M12S07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A10.wav	anger	shemo	F10A10.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_youth_happy.wav	happy	tess	OAF_youth_happy.wav
+./datasets/cremad/AudioWAV/1029_IOM_SAD_XX.wav	sadness	cremad	1029_IOM_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M51N19.wav	neutral	shemo	M51N19.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F25A03.wav	anger	shemo	F25A03.wav
+./datasets/cremad/AudioWAV/1018_TIE_SAD_XX.wav	sadness	cremad	1018_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1078_ITH_HAP_XX.wav	happy	cremad	1078_ITH_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_24/03-01-01-01-01-02-24.wav	neutral	ravdess	03-01-01-01-01-02-24.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F02S14.wav	sadness	shemo	F02S14.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M34N03.wav	neutral	shemo	M34N03.wav
+./datasets/cremad/AudioWAV/1012_IEO_HAP_LO.wav	happy	cremad	1012_IEO_HAP_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F12N13.wav	neutral	shemo	F12N13.wav
+./datasets/cremad/AudioWAV/1020_TSI_ANG_XX.wav	anger	cremad	1020_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1049_IEO_SAD_LO.wav	sadness	cremad	1049_IEO_SAD_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M29N05.wav	neutral	shemo	M29N05.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A03.wav	anger	shemo	M53A03.wav
+./datasets/cremad/AudioWAV/1015_ITS_ANG_XX.wav	anger	cremad	1015_ITS_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02A01.wav	anger	shemo	M02A01.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25A38.wav	anger	shemo	M25A38.wav
+./datasets/cremad/AudioWAV/1008_IWW_SAD_XX.wav	sadness	cremad	1008_IWW_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_fit_angry.wav	anger	tess	OAF_fit_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M38N11.wav	neutral	shemo	M38N11.wav
+./datasets/cremad/AudioWAV/1063_IEO_ANG_MD.wav	anger	cremad	1063_IEO_ANG_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_dead_sad.wav	sadness	tess	OAF_dead_sad.wav
+./datasets/ravdess-emotional-speech-audio/Actor_22/03-01-01-01-02-01-22.wav	neutral	ravdess	03-01-01-01-02-01-22.wav
+./datasets/cremad/AudioWAV/1045_IOM_NEU_XX.wav	neutral	cremad	1045_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1046_WSI_SAD_XX.wav	sadness	cremad	1046_WSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1029_TAI_ANG_XX.wav	anger	cremad	1029_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1039_IEO_HAP_MD.wav	happy	cremad	1039_IEO_HAP_MD.wav
+./datasets/cremad/AudioWAV/1006_DFA_ANG_XX.wav	anger	cremad	1006_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1020_IOM_ANG_XX.wav	anger	cremad	1020_IOM_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-03-02-01-01-21.wav	happy	ravdess	03-01-03-02-01-01-21.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F13A24.wav	anger	shemo	F13A24.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M09A13.wav	anger	shemo	M09A13.wav
+./datasets/cremad/AudioWAV/1040_WSI_NEU_XX.wav	neutral	cremad	1040_WSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1032_ITH_ANG_XX.wav	anger	cremad	1032_ITH_ANG_XX.wav
+./datasets/savee-database/AudioData/JK/h05.wav	happy	savee	h05.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M54N03.wav	neutral	shemo	M54N03.wav
+./datasets/cremad/AudioWAV/1060_DFA_HAP_XX.wav	happy	cremad	1060_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1079_TAI_NEU_XX.wav	neutral	cremad	1079_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1066_ITH_SAD_XX.wav	sadness	cremad	1066_ITH_SAD_XX.wav
+./datasets/cremad/AudioWAV/1048_TSI_NEU_XX.wav	neutral	cremad	1048_TSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1037_TAI_ANG_XX.wav	anger	cremad	1037_TAI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A09.wav	anger	shemo	F10A09.wav
+./datasets/cremad/AudioWAV/1028_ITS_NEU_XX.wav	neutral	cremad	1028_ITS_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23N07.wav	neutral	shemo	F23N07.wav
+./datasets/cremad/AudioWAV/1035_IEO_SAD_HI.wav	sadness	cremad	1035_IEO_SAD_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N73.wav	neutral	shemo	M12N73.wav
+./datasets/cremad/AudioWAV/1060_TAI_HAP_XX.wav	happy	cremad	1060_TAI_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53N06.wav	neutral	shemo	M53N06.wav
+./datasets/cremad/AudioWAV/1016_IWL_HAP_XX.wav	happy	cremad	1016_IWL_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pearl_sad.wav	sadness	tess	YAF_pearl_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28A11.wav	anger	shemo	M28A11.wav
+./datasets/cremad/AudioWAV/1019_IWL_ANG_XX.wav	anger	cremad	1019_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1002_IWW_ANG_XX.wav	anger	cremad	1002_IWW_ANG_XX.wav
+./datasets/cremad/AudioWAV/1017_WSI_NEU_XX.wav	neutral	cremad	1017_WSI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_sail_sad.wav	sadness	tess	OAF_sail_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M19A03.wav	anger	shemo	M19A03.wav
+./datasets/ravdess-emotional-speech-audio/Actor_08/03-01-03-02-02-01-08.wav	happy	ravdess	03-01-03-02-02-01-08.wav
+./datasets/cremad/AudioWAV/1074_MTI_SAD_XX.wav	sadness	cremad	1074_MTI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_youth_angry.wav	anger	tess	OAF_youth_angry.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_burn_neutral.wav	neutral	tess	OAF_burn_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A48.wav	anger	shemo	F24A48.wav
+./datasets/cremad/AudioWAV/1052_IEO_SAD_MD.wav	sadness	cremad	1052_IEO_SAD_MD.wav
+./datasets/cremad/AudioWAV/1082_IWW_SAD_XX.wav	sadness	cremad	1082_IWW_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M40N13.wav	neutral	shemo	M40N13.wav
+./datasets/cremad/AudioWAV/1060_ITH_ANG_XX.wav	anger	cremad	1060_ITH_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M07N07.wav	neutral	shemo	M07N07.wav
+./datasets/cremad/AudioWAV/1047_IOM_NEU_XX.wav	neutral	cremad	1047_IOM_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_nag_neutral.wav	neutral	tess	OAF_nag_neutral.wav
+./datasets/cremad/AudioWAV/1073_TAI_HAP_XX.wav	happy	cremad	1073_TAI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1015_TIE_SAD_XX.wav	sadness	cremad	1015_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1020_DFA_ANG_XX.wav	anger	cremad	1020_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1072_TIE_SAD_XX.wav	sadness	cremad	1072_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1047_IWW_ANG_XX.wav	anger	cremad	1047_IWW_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_thumb_angry.wav	anger	tess	OAF_thumb_angry.wav
+./datasets/cremad/AudioWAV/1077_IOM_NEU_XX.wav	neutral	cremad	1077_IOM_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_16/03-01-01-01-01-02-16.wav	neutral	ravdess	03-01-01-01-01-02-16.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_chief_happy.wav	happy	tess	OAF_chief_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_walk_happy.wav	happy	tess	YAF_walk_happy.wav
+./datasets/cremad/AudioWAV/1066_IWL_SAD_XX.wav	sadness	cremad	1066_IWL_SAD_XX.wav
+./datasets/cremad/AudioWAV/1042_IOM_HAP_XX.wav	happy	cremad	1042_IOM_HAP_XX.wav
+./datasets/cremad/AudioWAV/1061_IWW_NEU_XX.wav	neutral	cremad	1061_IWW_NEU_XX.wav
+./datasets/cremad/AudioWAV/1030_IEO_ANG_MD.wav	anger	cremad	1030_IEO_ANG_MD.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/16a01Fc.wav	happy	emodb	16a01Fc.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_met_angry.wav	anger	tess	YAF_met_angry.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_ring_neutral.wav	neutral	tess	OAF_ring_neutral.wav
+./datasets/cremad/AudioWAV/1051_IOM_ANG_XX.wav	anger	cremad	1051_IOM_ANG_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/03a02Fc.wav	happy	emodb	03a02Fc.wav
+./datasets/ravdess-emotional-speech-audio/Actor_20/03-01-05-02-01-02-20.wav	anger	ravdess	03-01-05-02-01-02-20.wav
+./datasets/cremad/AudioWAV/1040_IWL_SAD_XX.wav	sadness	cremad	1040_IWL_SAD_XX.wav
+./datasets/cremad/AudioWAV/1020_ITH_HAP_XX.wav	happy	cremad	1020_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N16.wav	neutral	shemo	F05N16.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_which_happy.wav	happy	tess	OAF_which_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F13A01.wav	anger	shemo	F13A01.wav
+./datasets/cremad/AudioWAV/1033_TAI_SAD_XX.wav	sadness	cremad	1033_TAI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N59.wav	neutral	shemo	M04N59.wav
+./datasets/ravdess-emotional-speech-audio/Actor_07/03-01-01-01-01-01-07.wav	neutral	ravdess	03-01-01-01-01-01-07.wav
+./datasets/cremad/AudioWAV/1022_WSI_SAD_XX.wav	sadness	cremad	1022_WSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1060_IWW_ANG_XX.wav	anger	cremad	1060_IWW_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02S02.wav	sadness	shemo	M02S02.wav
+./datasets/ravdess-emotional-speech-audio/Actor_18/03-01-01-01-01-02-18.wav	neutral	ravdess	03-01-01-01-01-02-18.wav
+./datasets/cremad/AudioWAV/1033_WSI_NEU_XX.wav	neutral	cremad	1033_WSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23H06.wav	happy	shemo	F23H06.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_shack_sad.wav	sadness	tess	YAF_shack_sad.wav
+./datasets/cremad/AudioWAV/1078_TAI_SAD_XX.wav	sadness	cremad	1078_TAI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23N04.wav	neutral	shemo	F23N04.wav
+./datasets/cremad/AudioWAV/1080_IWL_NEU_XX.wav	neutral	cremad	1080_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M40N34.wav	neutral	shemo	M40N34.wav
+./datasets/cremad/AudioWAV/1052_IWW_SAD_XX.wav	sadness	cremad	1052_IWW_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_14/03-01-05-01-01-02-14.wav	anger	ravdess	03-01-05-01-01-02-14.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03A20.wav	anger	shemo	M03A20.wav
+./datasets/cremad/AudioWAV/1015_IWL_NEU_XX.wav	neutral	cremad	1015_IWL_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_09/03-01-03-02-02-01-09.wav	happy	ravdess	03-01-03-02-02-01-09.wav
+./datasets/cremad/AudioWAV/1091_TSI_ANG_XX.wav	anger	cremad	1091_TSI_ANG_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08a07Na.wav	neutral	emodb	08a07Na.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M15A04.wav	anger	shemo	M15A04.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F18S01.wav	sadness	shemo	F18S01.wav
+./datasets/savee-database/AudioData/JE/n10.wav	neutral	savee	n10.wav
+./datasets/cremad/AudioWAV/1091_WSI_HAP_XX.wav	happy	cremad	1091_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1046_IWL_NEU_XX.wav	neutral	cremad	1046_IWL_NEU_XX.wav
+./datasets/cremad/AudioWAV/1041_IEO_HAP_HI.wav	happy	cremad	1041_IEO_HAP_HI.wav
+./datasets/cremad/AudioWAV/1074_IWL_NEU_XX.wav	neutral	cremad	1074_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02N19.wav	neutral	shemo	M02N19.wav
+./datasets/cremad/AudioWAV/1065_IWL_HAP_XX.wav	happy	cremad	1065_IWL_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F22S10.wav	sadness	shemo	F22S10.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M16N04.wav	neutral	shemo	M16N04.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F26S02.wav	sadness	shemo	F26S02.wav
+./datasets/cremad/AudioWAV/1058_TAI_ANG_XX.wav	anger	cremad	1058_TAI_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_jail_angry.wav	anger	tess	YAF_jail_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25H03.wav	happy	shemo	M25H03.wav
+./datasets/cremad/AudioWAV/1090_ITH_ANG_XX.wav	anger	cremad	1090_ITH_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N06.wav	neutral	shemo	F19N06.wav
+./datasets/cremad/AudioWAV/1040_ITH_SAD_X.wav	sadness	cremad	1040_ITH_SAD_X.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F22S08.wav	sadness	shemo	F22S08.wav
+./datasets/cremad/AudioWAV/1080_TAI_ANG_XX.wav	anger	cremad	1080_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1044_IEO_SAD_MD.wav	sadness	cremad	1044_IEO_SAD_MD.wav
+./datasets/cremad/AudioWAV/1023_TAI_HAP_XX.wav	happy	cremad	1023_TAI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_dab_happy.wav	happy	tess	OAF_dab_happy.wav
+./datasets/cremad/AudioWAV/1048_IOM_NEU_XX.wav	neutral	cremad	1048_IOM_NEU_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/09a05Nb.wav	neutral	emodb	09a05Nb.wav
+./datasets/cremad/AudioWAV/1054_ITS_NEU_XX.wav	neutral	cremad	1054_ITS_NEU_XX.wav
+./datasets/cremad/AudioWAV/1018_IEO_HAP_MD.wav	happy	cremad	1018_IEO_HAP_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_near_neutral.wav	neutral	tess	OAF_near_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_moon_angry.wav	anger	tess	OAF_moon_angry.wav
+./datasets/ravdess-emotional-speech-audio/Actor_09/03-01-05-02-02-01-09.wav	anger	ravdess	03-01-05-02-02-01-09.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_sub_sad.wav	sadness	tess	OAF_sub_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_note_angry.wav	anger	tess	OAF_note_angry.wav
+./datasets/cremad/AudioWAV/1053_IWL_HAP_XX.wav	happy	cremad	1053_IWL_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_05/03-01-03-01-01-01-05.wav	happy	ravdess	03-01-03-01-01-01-05.wav
+./datasets/cremad/AudioWAV/1018_MTI_ANG_XX.wav	anger	cremad	1018_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1061_IWW_ANG_XX.wav	anger	cremad	1061_IWW_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_17/03-01-01-01-01-02-17.wav	neutral	ravdess	03-01-01-01-01-02-17.wav
+./datasets/cremad/AudioWAV/1024_IEO_SAD_LO.wav	sadness	cremad	1024_IEO_SAD_LO.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mop_happy.wav	happy	tess	YAF_mop_happy.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-05-02-02-02-15.wav	anger	ravdess	03-01-05-02-02-02-15.wav
+./datasets/cremad/AudioWAV/1013_ITH_HAP_XX.wav	happy	cremad	1013_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1070_IEO_ANG_HI.wav	anger	cremad	1070_IEO_ANG_HI.wav
+./datasets/cremad/AudioWAV/1031_MTI_ANG_XX.wav	anger	cremad	1031_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1076_IWW_SAD_XX.wav	sadness	cremad	1076_IWW_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N78.wav	neutral	shemo	M04N78.wav
+./datasets/cremad/AudioWAV/1069_ITH_HAP_XX.wav	happy	cremad	1069_ITH_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_19/03-01-05-01-02-01-19.wav	anger	ravdess	03-01-05-01-02-01-19.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_base_sad.wav	sadness	tess	OAF_base_sad.wav
+./datasets/cremad/AudioWAV/1014_DFA_NEU_XX.wav	neutral	cremad	1014_DFA_NEU_XX.wav
+./datasets/cremad/AudioWAV/1070_MTI_NEU_XX.wav	neutral	cremad	1070_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1031_DFA_HAP_XX.wav	happy	cremad	1031_DFA_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_01/03-01-01-01-01-02-01.wav	neutral	ravdess	03-01-01-01-01-02-01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_time_angry.wav	anger	tess	OAF_time_angry.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-05-01-02-01-15.wav	anger	ravdess	03-01-05-01-02-01-15.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F29N10.wav	neutral	shemo	F29N10.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_mop_neutral.wav	neutral	tess	OAF_mop_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M46N05.wav	neutral	shemo	M46N05.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_limb_angry.wav	anger	tess	OAF_limb_angry.wav
+./datasets/cremad/AudioWAV/1085_MTI_SAD_XX.wav	sadness	cremad	1085_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1068_IWL_NEU_XX.wav	neutral	cremad	1068_IWL_NEU_XX.wav
+./datasets/cremad/AudioWAV/1068_IOM_ANG_XX.wav	anger	cremad	1068_IOM_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28N06.wav	neutral	shemo	M28N06.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M06S05.wav	sadness	shemo	M06S05.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_cab_sad.wav	sadness	tess	YAF_cab_sad.wav
+./datasets/cremad/AudioWAV/1046_IEO_HAP_HI.wav	happy	cremad	1046_IEO_HAP_HI.wav
+./datasets/ravdess-emotional-speech-audio/Actor_06/03-01-03-02-02-01-06.wav	happy	ravdess	03-01-03-02-02-01-06.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F30N05.wav	neutral	shemo	F30N05.wav
+./datasets/cremad/AudioWAV/1043_IEO_ANG_MD.wav	anger	cremad	1043_IEO_ANG_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25A68.wav	anger	shemo	M25A68.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26A25.wav	anger	shemo	M26A25.wav
+./datasets/cremad/AudioWAV/1067_TAI_ANG_XX.wav	anger	cremad	1067_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1068_IWW_ANG_XX.wav	anger	cremad	1068_IWW_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_chain_neutral.wav	neutral	tess	OAF_chain_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_bean_angry.wav	anger	tess	OAF_bean_angry.wav
+./datasets/cremad/AudioWAV/1085_TIE_HAP_XX.wav	happy	cremad	1085_TIE_HAP_XX.wav
+./datasets/savee-database/AudioData/JE/n17.wav	neutral	savee	n17.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A68.wav	anger	shemo	F24A68.wav
+./datasets/cremad/AudioWAV/1074_TIE_NEU_XX.wav	neutral	cremad	1074_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1004_IOM_NEU_XX.wav	neutral	cremad	1004_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1036_IWL_HAP_XX.wav	happy	cremad	1036_IWL_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_good_neutral.wav	neutral	tess	OAF_good_neutral.wav
+./datasets/cremad/AudioWAV/1046_ITS_SAD_XX.wav	sadness	cremad	1046_ITS_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_pain_neutral.wav	neutral	tess	YAF_pain_neutral.wav
+./datasets/ravdess-emotional-speech-audio/Actor_20/03-01-04-01-01-01-20.wav	sadness	ravdess	03-01-04-01-01-01-20.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A41.wav	anger	shemo	F24A41.wav
+./datasets/cremad/AudioWAV/1079_TSI_HAP_XX.wav	happy	cremad	1079_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1007_ITH_ANG_XX.wav	anger	cremad	1007_ITH_ANG_XX.wav
+./datasets/cremad/AudioWAV/1050_TAI_SAD_XX.wav	sadness	cremad	1050_TAI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_beg_neutral.wav	neutral	tess	OAF_beg_neutral.wav
+./datasets/cremad/AudioWAV/1009_IOM_SAD_XX.wav	sadness	cremad	1009_IOM_SAD_XX.wav
+./datasets/cremad/AudioWAV/1001_IEO_SAD_MD.wav	sadness	cremad	1001_IEO_SAD_MD.wav
+./datasets/cremad/AudioWAV/1029_IEO_SAD_HI.wav	sadness	cremad	1029_IEO_SAD_HI.wav
+./datasets/savee-database/AudioData/DC/n16.wav	neutral	savee	n16.wav
+./datasets/cremad/AudioWAV/1075_IWW_ANG_XX.wav	anger	cremad	1075_IWW_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_24/03-01-03-02-02-01-24.wav	happy	ravdess	03-01-03-02-02-01-24.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N12.wav	neutral	shemo	F05N12.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/12b02Wd.wav	anger	emodb	12b02Wd.wav
+./datasets/ravdess-emotional-speech-audio/Actor_12/03-01-04-02-02-01-12.wav	sadness	ravdess	03-01-04-02-02-01-12.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12S06.wav	sadness	shemo	M12S06.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A13.wav	anger	shemo	F10A13.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M15N02.wav	neutral	shemo	M15N02.wav
+./datasets/ravdess-emotional-speech-audio/Actor_17/03-01-04-02-01-01-17.wav	sadness	ravdess	03-01-04-02-01-01-17.wav
+./datasets/cremad/AudioWAV/1004_TSI_HAP_XX.wav	happy	cremad	1004_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1003_WSI_NEU_XX.wav	neutral	cremad	1003_WSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1057_TSI_HAP_XX.wav	happy	cremad	1057_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1004_TSI_SAD_XX.wav	sadness	cremad	1004_TSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1086_DFA_ANG_XX.wav	anger	cremad	1086_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1078_DFA_SAD_XX.wav	sadness	cremad	1078_DFA_SAD_XX.wav
+./datasets/cremad/AudioWAV/1037_IEO_NEU_XX.wav	neutral	cremad	1037_IEO_NEU_XX.wav
+./datasets/cremad/AudioWAV/1025_IWW_HAP_XX.wav	happy	cremad	1025_IWW_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_luck_angry.wav	anger	tess	OAF_luck_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47A18.wav	anger	shemo	M47A18.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-04-01-01-02-15.wav	sadness	ravdess	03-01-04-01-01-02-15.wav
+./datasets/cremad/AudioWAV/1038_TIE_HAP_XX.wav	happy	cremad	1038_TIE_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N31.wav	neutral	shemo	F05N31.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M15N03.wav	neutral	shemo	M15N03.wav
+./datasets/cremad/AudioWAV/1088_IEO_HAP_LO.wav	happy	cremad	1088_IEO_HAP_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26A30.wav	anger	shemo	M26A30.wav
+./datasets/cremad/AudioWAV/1029_ITH_NEU_XX.wav	neutral	cremad	1029_ITH_NEU_XX.wav
+./datasets/cremad/AudioWAV/1043_IOM_NEU_XX.wav	neutral	cremad	1043_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1064_IEO_SAD_HI.wav	sadness	cremad	1064_IEO_SAD_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19S02.wav	sadness	shemo	F19S02.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-01-01-01-01-15.wav	neutral	ravdess	03-01-01-01-01-01-15.wav
+./datasets/cremad/AudioWAV/1062_MTI_ANG_XX.wav	anger	cremad	1062_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1020_TAI_HAP_XX.wav	happy	cremad	1020_TAI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1033_MTI_NEU_XX.wav	neutral	cremad	1033_MTI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_back_happy.wav	happy	tess	YAF_back_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M31N07.wav	neutral	shemo	M31N07.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bought_angry.wav	anger	tess	YAF_bought_angry.wav
+./datasets/cremad/AudioWAV/1046_DFA_SAD_XX.wav	sadness	cremad	1046_DFA_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M15A11.wav	anger	shemo	M15A11.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A11.wav	anger	shemo	M53A11.wav
+./datasets/cremad/AudioWAV/1077_IWW_ANG_XX.wav	anger	cremad	1077_IWW_ANG_XX.wav
+./datasets/cremad/AudioWAV/1018_ITS_HAP_XX.wav	happy	cremad	1018_ITS_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25A37.wav	anger	shemo	M25A37.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21A33.wav	anger	shemo	F21A33.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21N17.wav	neutral	shemo	F21N17.wav
+./datasets/cremad/AudioWAV/1022_IEO_HAP_LO.wav	happy	cremad	1022_IEO_HAP_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F13A16.wav	anger	shemo	F13A16.wav
+./datasets/cremad/AudioWAV/1031_IWW_HAP_XX.wav	happy	cremad	1031_IWW_HAP_XX.wav
+./datasets/cremad/AudioWAV/1091_DFA_NEU_XX.wav	neutral	cremad	1091_DFA_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_chalk_angry.wav	anger	tess	YAF_chalk_angry.wav
+./datasets/savee-database/AudioData/KL/a03.wav	anger	savee	a03.wav
+./datasets/cremad/AudioWAV/1018_IWW_HAP_XX.wav	happy	cremad	1018_IWW_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_bath_happy.wav	happy	tess	YAF_bath_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rough_sad.wav	sadness	tess	YAF_rough_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M29A02.wav	anger	shemo	M29A02.wav
+./datasets/cremad/AudioWAV/1074_IOM_NEU_XX.wav	neutral	cremad	1074_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1062_IEO_HAP_LO.wav	happy	cremad	1062_IEO_HAP_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F01H06.wav	happy	shemo	F01H06.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N67.wav	neutral	shemo	M04N67.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rain_sad.wav	sadness	tess	YAF_rain_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04S09.wav	sadness	shemo	M04S09.wav
+./datasets/cremad/AudioWAV/1004_IEO_SAD_MD.wav	sadness	cremad	1004_IEO_SAD_MD.wav
+./datasets/cremad/AudioWAV/1077_MTI_NEU_XX.wav	neutral	cremad	1077_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1030_ITS_NEU_XX.wav	neutral	cremad	1030_ITS_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_nice_neutral.wav	neutral	tess	YAF_nice_neutral.wav
+./datasets/cremad/AudioWAV/1059_DFA_ANG_XX.wav	anger	cremad	1059_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1058_MTI_SAD_XX.wav	sadness	cremad	1058_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1089_ITH_NEU_XX.wav	neutral	cremad	1089_ITH_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F22A04.wav	anger	shemo	F22A04.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A39.wav	anger	shemo	F24A39.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_shirt_neutral.wav	neutral	tess	YAF_shirt_neutral.wav
+./datasets/cremad/AudioWAV/1048_ITS_HAP_XX.wav	happy	cremad	1048_ITS_HAP_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/15a05Na.wav	neutral	emodb	15a05Na.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09S10.wav	sadness	shemo	F09S10.wav
+./datasets/cremad/AudioWAV/1049_DFA_SAD_XX.wav	sadness	cremad	1049_DFA_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M21H02.wav	happy	shemo	M21H02.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21S41.wav	sadness	shemo	F21S41.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28A34.wav	anger	shemo	M28A34.wav
+./datasets/cremad/AudioWAV/1080_WSI_SAD_XX.wav	sadness	cremad	1080_WSI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_walk_happy.wav	happy	tess	OAF_walk_happy.wav
+./datasets/cremad/AudioWAV/1053_ITS_NEU_XX.wav	neutral	cremad	1053_ITS_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A29.wav	anger	shemo	F24A29.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F29N02.wav	neutral	shemo	F29N02.wav
+./datasets/cremad/AudioWAV/1056_WSI_NEU_XX.wav	neutral	cremad	1056_WSI_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_18/03-01-05-02-01-02-18.wav	anger	ravdess	03-01-05-02-01-02-18.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_five_sad.wav	sadness	tess	YAF_five_sad.wav
+./datasets/cremad/AudioWAV/1053_IEO_SAD_MD.wav	sadness	cremad	1053_IEO_SAD_MD.wav
+./datasets/cremad/AudioWAV/1037_TIE_SAD_XX.wav	sadness	cremad	1037_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1013_IWW_HAP_XX.wav	happy	cremad	1013_IWW_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_14/03-01-01-01-01-01-14.wav	neutral	ravdess	03-01-01-01-01-01-14.wav
+./datasets/ravdess-emotional-speech-audio/Actor_22/03-01-05-02-02-02-22.wav	anger	ravdess	03-01-05-02-02-02-22.wav
+./datasets/cremad/AudioWAV/1087_ITS_SAD_XX.wav	sadness	cremad	1087_ITS_SAD_XX.wav
+./datasets/cremad/AudioWAV/1018_TAI_HAP_XX.wav	happy	cremad	1018_TAI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1072_IOM_NEU_XX.wav	neutral	cremad	1072_IOM_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_week_angry.wav	anger	tess	OAF_week_angry.wav
+./datasets/cremad/AudioWAV/1035_IOM_ANG_XX.wav	anger	cremad	1035_IOM_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21A20.wav	anger	shemo	F21A20.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28S05.wav	sadness	shemo	M28S05.wav
+./datasets/cremad/AudioWAV/1021_IEO_HAP_HI.wav	happy	cremad	1021_IEO_HAP_HI.wav
+./datasets/cremad/AudioWAV/1060_WSI_HAP_XX.wav	happy	cremad	1060_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1091_ITS_NEU_XX.wav	neutral	cremad	1091_ITS_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M43N05.wav	neutral	shemo	M43N05.wav
+./datasets/cremad/AudioWAV/1037_IOM_HAP_XX.wav	happy	cremad	1037_IOM_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A14.wav	anger	shemo	M12A14.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F12N07.wav	neutral	shemo	F12N07.wav
+./datasets/ravdess-emotional-speech-audio/Actor_02/03-01-05-02-02-01-02.wav	anger	ravdess	03-01-05-02-02-01-02.wav
+./datasets/ravdess-emotional-speech-audio/Actor_11/03-01-05-01-02-01-11.wav	anger	ravdess	03-01-05-01-02-01-11.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F12A06.wav	anger	shemo	F12A06.wav
+./datasets/cremad/AudioWAV/1064_IOM_NEU_XX.wav	neutral	cremad	1064_IOM_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_chalk_sad.wav	sadness	tess	OAF_chalk_sad.wav
+./datasets/cremad/AudioWAV/1088_ITS_ANG_XX.wav	anger	cremad	1088_ITS_ANG_XX.wav
+./datasets/cremad/AudioWAV/1073_IWW_ANG_XX.wav	anger	cremad	1073_IWW_ANG_XX.wav
+./datasets/cremad/AudioWAV/1048_IWW_SAD_XX.wav	sadness	cremad	1048_IWW_SAD_XX.wav
+./datasets/cremad/AudioWAV/1075_ITH_SAD_XX.wav	sadness	cremad	1075_ITH_SAD_XX.wav
+./datasets/cremad/AudioWAV/1001_TIE_SAD_XX.wav	sadness	cremad	1001_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1004_ITH_ANG_XX.wav	anger	cremad	1004_ITH_ANG_XX.wav
+./datasets/cremad/AudioWAV/1052_TAI_ANG_XX.wav	anger	cremad	1052_TAI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24N14.wav	neutral	shemo	F24N14.wav
+./datasets/ravdess-emotional-speech-audio/Actor_10/03-01-04-01-01-01-10.wav	sadness	ravdess	03-01-04-01-01-01-10.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F28A18.wav	anger	shemo	F28A18.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23N01.wav	neutral	shemo	F23N01.wav
+./datasets/ravdess-emotional-speech-audio/Actor_07/03-01-04-01-01-01-07.wav	sadness	ravdess	03-01-04-01-01-01-07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03N07.wav	neutral	shemo	M03N07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M11H03.wav	happy	shemo	M11H03.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M09A16.wav	anger	shemo	M09A16.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F28A02.wav	anger	shemo	F28A02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_perch_sad.wav	sadness	tess	OAF_perch_sad.wav
+./datasets/cremad/AudioWAV/1029_ITH_SAD_XX.wav	sadness	cremad	1029_ITH_SAD_XX.wav
+./datasets/cremad/AudioWAV/1007_WSI_ANG_XX.wav	anger	cremad	1007_WSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1030_IWL_HAP_XX.wav	happy	cremad	1030_IWL_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-04-01-02-01-21.wav	sadness	ravdess	03-01-04-01-02-01-21.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N53.wav	neutral	shemo	F05N53.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F17S06.wav	sadness	shemo	F17S06.wav
+./datasets/cremad/AudioWAV/1007_IEO_ANG_MD.wav	anger	cremad	1007_IEO_ANG_MD.wav
+./datasets/ravdess-emotional-speech-audio/Actor_09/03-01-05-02-01-01-09.wav	anger	ravdess	03-01-05-02-01-01-09.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M08H02.wav	happy	shemo	M08H02.wav
+./datasets/cremad/AudioWAV/1057_IEO_NEU_XX.wav	neutral	cremad	1057_IEO_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25A66.wav	anger	shemo	M25A66.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_pole_sad.wav	sadness	tess	OAF_pole_sad.wav
+./datasets/cremad/AudioWAV/1043_TAI_NEU_XX.wav	neutral	cremad	1043_TAI_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-03-02-02-02-21.wav	happy	ravdess	03-01-03-02-02-02-21.wav
+./datasets/cremad/AudioWAV/1015_IWL_ANG_XX.wav	anger	cremad	1015_IWL_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_hit_happy.wav	happy	tess	OAF_hit_happy.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08b03Nb.wav	neutral	emodb	08b03Nb.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F22A09.wav	anger	shemo	F22A09.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_white_sad.wav	sadness	tess	YAF_white_sad.wav
+./datasets/cremad/AudioWAV/1089_DFA_HAP_XX.wav	happy	cremad	1089_DFA_HAP_XX.wav
+./datasets/savee-database/AudioData/JK/sa14.wav	sadness	savee	sa14.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_wire_sad.wav	sadness	tess	OAF_wire_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A67.wav	anger	shemo	M12A67.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_ripe_neutral.wav	neutral	tess	OAF_ripe_neutral.wav
+./datasets/cremad/AudioWAV/1081_IEO_HAP_LO.wav	happy	cremad	1081_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1022_TSI_HAP_XX.wav	happy	cremad	1022_TSI_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N36.wav	neutral	shemo	M04N36.wav
+./datasets/cremad/AudioWAV/1068_ITS_HAP_XX.wav	happy	cremad	1068_ITS_HAP_XX.wav
+./datasets/cremad/AudioWAV/1079_IEO_SAD_HI.wav	sadness	cremad	1079_IEO_SAD_HI.wav
+./datasets/cremad/AudioWAV/1014_IOM_HAP_XX.wav	happy	cremad	1014_IOM_HAP_XX.wav
+./datasets/cremad/AudioWAV/1072_IWW_SAD_XX.wav	sadness	cremad	1072_IWW_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28A09.wav	anger	shemo	M28A09.wav
+./datasets/cremad/AudioWAV/1068_TAI_SAD_XX.wav	sadness	cremad	1068_TAI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03A16.wav	anger	shemo	M03A16.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02A24.wav	anger	shemo	M02A24.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A20.wav	anger	shemo	F07A20.wav
+./datasets/cremad/AudioWAV/1053_IEO_NEU_XX.wav	neutral	cremad	1053_IEO_NEU_XX.wav
+./datasets/cremad/AudioWAV/1076_TIE_ANG_XX.wav	anger	cremad	1076_TIE_ANG_XX.wav
+./datasets/cremad/AudioWAV/1039_IEO_ANG_LO.wav	anger	cremad	1039_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1068_TIE_ANG_XX.wav	anger	cremad	1068_TIE_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F17S09.wav	sadness	shemo	F17S09.wav
+./datasets/savee-database/AudioData/DC/n04.wav	neutral	savee	n04.wav
+./datasets/ravdess-emotional-speech-audio/Actor_01/03-01-04-02-02-02-01.wav	sadness	ravdess	03-01-04-02-02-02-01.wav
+./datasets/cremad/AudioWAV/1066_IEO_ANG_LO.wav	anger	cremad	1066_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1006_IOM_ANG_XX.wav	anger	cremad	1006_IOM_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_boat_angry.wav	anger	tess	YAF_boat_angry.wav
+./datasets/cremad/AudioWAV/1081_MTI_SAD_XX.wav	sadness	cremad	1081_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1007_WSI_NEU_XX.wav	neutral	cremad	1007_WSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M42A01.wav	anger	shemo	M42A01.wav
+./datasets/savee-database/AudioData/JE/n07.wav	neutral	savee	n07.wav
+./datasets/cremad/AudioWAV/1053_IOM_ANG_XX.wav	anger	cremad	1053_IOM_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_19/03-01-03-02-02-01-19.wav	happy	ravdess	03-01-03-02-02-01-19.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_learn_happy.wav	happy	tess	YAF_learn_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A47.wav	anger	shemo	F10A47.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_puff_happy.wav	happy	tess	YAF_puff_happy.wav
+./datasets/cremad/AudioWAV/1009_ITS_HAP_XX.wav	happy	cremad	1009_ITS_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_haze_happy.wav	happy	tess	YAF_haze_happy.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-04-01-02-02-03.wav	sadness	ravdess	03-01-04-01-02-02-03.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_ring_neutral.wav	neutral	tess	YAF_ring_neutral.wav
+./datasets/cremad/AudioWAV/1059_IWL_HAP_XX.wav	happy	cremad	1059_IWL_HAP_XX.wav
+./datasets/cremad/AudioWAV/1049_WSI_NEU_XX.wav	neutral	cremad	1049_WSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F30N02.wav	neutral	shemo	F30N02.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02N13.wav	neutral	shemo	M02N13.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/14b09Fc.wav	happy	emodb	14b09Fc.wav
+./datasets/cremad/AudioWAV/1072_MTI_HAP_XX.wav	happy	cremad	1072_MTI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1047_IWW_HAP_XX.wav	happy	cremad	1047_IWW_HAP_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/14b01Na.wav	neutral	emodb	14b01Na.wav
+./datasets/cremad/AudioWAV/1062_IOM_HAP_XX.wav	happy	cremad	1062_IOM_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09H01.wav	happy	shemo	F09H01.wav
+./datasets/cremad/AudioWAV/1005_MTI_HAP_XX.wav	happy	cremad	1005_MTI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1031_TSI_ANG_XX.wav	anger	cremad	1031_TSI_ANG_XX.wav
+./datasets/savee-database/AudioData/KL/sa10.wav	sadness	savee	sa10.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_date_neutral.wav	neutral	tess	YAF_date_neutral.wav
+./datasets/cremad/AudioWAV/1051_ITS_SAD_XX.wav	sadness	cremad	1051_ITS_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25N19.wav	neutral	shemo	M25N19.wav
+./datasets/cremad/AudioWAV/1080_DFA_SAD_XX.wav	sadness	cremad	1080_DFA_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_02/03-01-05-01-02-02-02.wav	anger	ravdess	03-01-05-01-02-02-02.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M14S02.wav	sadness	shemo	M14S02.wav
+./datasets/cremad/AudioWAV/1010_IWW_NEU_XX.wav	neutral	cremad	1010_IWW_NEU_XX.wav
+./datasets/cremad/AudioWAV/1046_IWW_ANG_XX.wav	anger	cremad	1046_IWW_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_chair_neutral.wav	neutral	tess	YAF_chair_neutral.wav
+./datasets/cremad/AudioWAV/1061_IEO_HAP_MD.wav	happy	cremad	1061_IEO_HAP_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_third_angry.wav	anger	tess	OAF_third_angry.wav
+./datasets/cremad/AudioWAV/1010_TSI_SAD_XX.wav	sadness	cremad	1010_TSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1081_IEO_HAP_HI.wav	happy	cremad	1081_IEO_HAP_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M16A26.wav	anger	shemo	M16A26.wav
+./datasets/cremad/AudioWAV/1078_IEO_ANG_MD.wav	anger	cremad	1078_IEO_ANG_MD.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/14a07Tc.wav	sadness	emodb	14a07Tc.wav
+./datasets/cremad/AudioWAV/1003_IEO_SAD_HI.wav	sadness	cremad	1003_IEO_SAD_HI.wav
+./datasets/cremad/AudioWAV/1013_ITH_ANG_XX.wav	anger	cremad	1013_ITH_ANG_XX.wav
+./datasets/cremad/AudioWAV/1028_IEO_SAD_MD.wav	sadness	cremad	1028_IEO_SAD_MD.wav
+./datasets/ravdess-emotional-speech-audio/Actor_14/03-01-03-02-01-01-14.wav	happy	ravdess	03-01-03-02-01-01-14.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07S11.wav	sadness	shemo	F07S11.wav
+./datasets/savee-database/AudioData/JE/n20.wav	neutral	savee	n20.wav
+./datasets/cremad/AudioWAV/1069_TSI_ANG_XX.wav	anger	cremad	1069_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1086_IOM_ANG_XX.wav	anger	cremad	1086_IOM_ANG_XX.wav
+./datasets/cremad/AudioWAV/1068_IWL_ANG_XX.wav	anger	cremad	1068_IWL_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M55N01.wav	neutral	shemo	M55N01.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A15.wav	anger	shemo	M12A15.wav
+./datasets/cremad/AudioWAV/1025_IWW_ANG_XX.wav	anger	cremad	1025_IWW_ANG_XX.wav
+./datasets/savee-database/AudioData/DC/h05.wav	happy	savee	h05.wav
+./datasets/cremad/AudioWAV/1025_TIE_HAP_XX.wav	happy	cremad	1025_TIE_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_calm_neutral.wav	neutral	tess	OAF_calm_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mob_angry.wav	anger	tess	YAF_mob_angry.wav
+./datasets/cremad/AudioWAV/1062_IWL_NEU_XX.wav	neutral	cremad	1062_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02S01.wav	sadness	shemo	M02S01.wav
+./datasets/cremad/AudioWAV/1084_MTI_ANG_XX.wav	anger	cremad	1084_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1081_TAI_SAD_XX.wav	sadness	cremad	1081_TAI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1053_TIE_HAP_XX.wav	happy	cremad	1053_TIE_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A05.wav	anger	shemo	M12A05.wav
+./datasets/cremad/AudioWAV/1068_WSI_NEU_XX.wav	neutral	cremad	1068_WSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1019_IWW_NEU_XX.wav	neutral	cremad	1019_IWW_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_dab_sad.wav	sadness	tess	OAF_dab_sad.wav
+./datasets/cremad/AudioWAV/1034_MTI_HAP_XX.wav	happy	cremad	1034_MTI_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25N04.wav	neutral	shemo	M25N04.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_dime_neutral.wav	neutral	tess	YAF_dime_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_raise_neutral.wav	neutral	tess	YAF_raise_neutral.wav
+./datasets/cremad/AudioWAV/1069_TAI_SAD_XX.wav	sadness	cremad	1069_TAI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1084_TIE_NEU_XX.wav	neutral	cremad	1084_TIE_NEU_XX.wav
+./datasets/savee-database/AudioData/JE/n04.wav	neutral	savee	n04.wav
+./datasets/cremad/AudioWAV/1089_IWL_NEU_XX.wav	neutral	cremad	1089_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A16.wav	anger	shemo	F24A16.wav
+./datasets/ravdess-emotional-speech-audio/Actor_19/03-01-01-01-02-02-19.wav	neutral	ravdess	03-01-01-01-02-02-19.wav
+./datasets/cremad/AudioWAV/1014_TIE_SAD_XX.wav	sadness	cremad	1014_TIE_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_14/03-01-04-01-01-02-14.wav	sadness	ravdess	03-01-04-01-01-02-14.wav
+./datasets/cremad/AudioWAV/1021_IOM_ANG_XX.wav	anger	cremad	1021_IOM_ANG_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/14a04Wb.wav	anger	emodb	14a04Wb.wav
+./datasets/cremad/AudioWAV/1080_WSI_HAP_XX.wav	happy	cremad	1080_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1034_IEO_SAD_HI.wav	sadness	cremad	1034_IEO_SAD_HI.wav
+./datasets/savee-database/AudioData/DC/n09.wav	neutral	savee	n09.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N29.wav	neutral	shemo	F05N29.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N38.wav	neutral	shemo	F19N38.wav
+./datasets/savee-database/AudioData/JE/a13.wav	anger	savee	a13.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N19.wav	neutral	shemo	F19N19.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_keg_angry.wav	anger	tess	OAF_keg_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M44N14.wav	neutral	shemo	M44N14.wav
+./datasets/cremad/AudioWAV/1032_IEO_ANG_LO.wav	anger	cremad	1032_IEO_ANG_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05A01.wav	anger	shemo	F05A01.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M29A18.wav	anger	shemo	M29A18.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F29N09.wav	neutral	shemo	F29N09.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_haze_sad.wav	sadness	tess	OAF_haze_sad.wav
+./datasets/cremad/AudioWAV/1055_ITS_HAP_XX.wav	happy	cremad	1055_ITS_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47N20.wav	neutral	shemo	M47N20.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_void_sad.wav	sadness	tess	YAF_void_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_peg_neutral.wav	neutral	tess	YAF_peg_neutral.wav
+./datasets/cremad/AudioWAV/1030_IWL_ANG_XX.wav	anger	cremad	1030_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1040_DFA_ANG_XX.wav	anger	cremad	1040_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1054_TIE_NEU_XX.wav	neutral	cremad	1054_TIE_NEU_XX.wav
+./datasets/savee-database/AudioData/JK/h09.wav	happy	savee	h09.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N41.wav	neutral	shemo	M12N41.wav
+./datasets/cremad/AudioWAV/1049_TSI_NEU_XX.wav	neutral	cremad	1049_TSI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rain_happy.wav	happy	tess	YAF_rain_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_ring_angry.wav	anger	tess	OAF_ring_angry.wav
+./datasets/cremad/AudioWAV/1031_TIE_SAD_XX.wav	sadness	cremad	1031_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1074_IWW_SAD_XX.wav	sadness	cremad	1074_IWW_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_16/03-01-03-02-01-01-16.wav	happy	ravdess	03-01-03-02-01-01-16.wav
+./datasets/cremad/AudioWAV/1020_ITS_ANG_XX.wav	anger	cremad	1020_ITS_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M36H01.wav	happy	shemo	M36H01.wav
+./datasets/cremad/AudioWAV/1026_IOM_SAD_XX.wav	sadness	cremad	1026_IOM_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21A27.wav	anger	shemo	F21A27.wav
+./datasets/cremad/AudioWAV/1063_ITH_HAP_XX.wav	happy	cremad	1063_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28N08.wav	neutral	shemo	M28N08.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F13A13.wav	anger	shemo	F13A13.wav
+./datasets/cremad/AudioWAV/1022_IOM_NEU_XX.wav	neutral	cremad	1022_IOM_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F01S08.wav	sadness	shemo	F01S08.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M11N05.wav	neutral	shemo	M11N05.wav
+./datasets/cremad/AudioWAV/1068_IWW_SAD_XX.wav	sadness	cremad	1068_IWW_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_choice_angry.wav	anger	tess	YAF_choice_angry.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_young_sad.wav	sadness	tess	OAF_young_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_boat_happy.wav	happy	tess	YAF_boat_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N52.wav	neutral	shemo	M04N52.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hate_angry.wav	anger	tess	YAF_hate_angry.wav
+./datasets/cremad/AudioWAV/1072_ITH_NEU_XX.wav	neutral	cremad	1072_ITH_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M34N02.wav	neutral	shemo	M34N02.wav
+./datasets/ravdess-emotional-speech-audio/Actor_22/03-01-03-01-02-02-22.wav	happy	ravdess	03-01-03-01-02-02-22.wav
+./datasets/cremad/AudioWAV/1066_TAI_NEU_XX.wav	neutral	cremad	1066_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1064_WSI_HAP_XX.wav	happy	cremad	1064_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1067_MTI_SAD_XX.wav	sadness	cremad	1067_MTI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M48S02.wav	sadness	shemo	M48S02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_keen_happy.wav	happy	tess	YAF_keen_happy.wav
+./datasets/cremad/AudioWAV/1005_IEO_NEU_XX.wav	neutral	cremad	1005_IEO_NEU_XX.wav
+./datasets/cremad/AudioWAV/1079_DFA_NEU_XX.wav	neutral	cremad	1079_DFA_NEU_XX.wav
+./datasets/cremad/AudioWAV/1032_DFA_HAP_XX.wav	happy	cremad	1032_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1009_WSI_NEU_XX.wav	neutral	cremad	1009_WSI_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-05-01-01-02-21.wav	anger	ravdess	03-01-05-01-01-02-21.wav
+./datasets/cremad/AudioWAV/1031_IEO_SAD_HI.wav	sadness	cremad	1031_IEO_SAD_HI.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-03-01-01-02-15.wav	happy	ravdess	03-01-03-01-01-02-15.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09S14.wav	sadness	shemo	F09S14.wav
+./datasets/cremad/AudioWAV/1091_TAI_HAP_XX.wav	happy	cremad	1091_TAI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_numb_neutral.wav	neutral	tess	OAF_numb_neutral.wav
+./datasets/cremad/AudioWAV/1049_MTI_NEU_XX.wav	neutral	cremad	1049_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1026_IEO_HAP_MD.wav	happy	cremad	1026_IEO_HAP_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26N02.wav	neutral	shemo	M26N02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rush_angry.wav	anger	tess	YAF_rush_angry.wav
+./datasets/cremad/AudioWAV/1029_TAI_SAD_XX.wav	sadness	cremad	1029_TAI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N27.wav	neutral	shemo	M12N27.wav
+./datasets/cremad/AudioWAV/1061_DFA_ANG_XX.wav	anger	cremad	1061_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1011_IWL_NEU_XX.wav	neutral	cremad	1011_IWL_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_mop_sad.wav	sadness	tess	OAF_mop_sad.wav
+./datasets/cremad/AudioWAV/1044_IWW_HAP_XX.wav	happy	cremad	1044_IWW_HAP_XX.wav
+./datasets/cremad/AudioWAV/1059_IEO_HAP_HI.wav	happy	cremad	1059_IEO_HAP_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M38N09.wav	neutral	shemo	M38N09.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M40N23.wav	neutral	shemo	M40N23.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_kick_neutral.wav	neutral	tess	OAF_kick_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_phone_angry.wav	anger	tess	YAF_phone_angry.wav
+./datasets/cremad/AudioWAV/1053_DFA_SAD_XX.wav	sadness	cremad	1053_DFA_SAD_XX.wav
+./datasets/cremad/AudioWAV/1034_WSI_SAD_XX.wav	sadness	cremad	1034_WSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1060_ITH_NEU_XX.wav	neutral	cremad	1060_ITH_NEU_XX.wav
+./datasets/cremad/AudioWAV/1011_IWW_NEU_XX.wav	neutral	cremad	1011_IWW_NEU_XX.wav
+./datasets/cremad/AudioWAV/1068_TIE_NEU_XX.wav	neutral	cremad	1068_TIE_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_red_sad.wav	sadness	tess	OAF_red_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_jail_neutral.wav	neutral	tess	YAF_jail_neutral.wav
+./datasets/cremad/AudioWAV/1023_IWL_ANG_XX.wav	anger	cremad	1023_IWL_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F13A15.wav	anger	shemo	F13A15.wav
+./datasets/cremad/AudioWAV/1001_TIE_ANG_XX.wav	anger	cremad	1001_TIE_ANG_XX.wav
+./datasets/cremad/AudioWAV/1048_DFA_ANG_XX.wav	anger	cremad	1048_DFA_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_talk_angry.wav	anger	tess	YAF_talk_angry.wav
+./datasets/cremad/AudioWAV/1033_MTI_SAD_XX.wav	sadness	cremad	1033_MTI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_read_sad.wav	sadness	tess	OAF_read_sad.wav
+./datasets/cremad/AudioWAV/1059_TIE_SAD_XX.wav	sadness	cremad	1059_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1019_ITS_SAD_XX.wav	sadness	cremad	1019_ITS_SAD_XX.wav
+./datasets/cremad/AudioWAV/1016_DFA_HAP_XX.wav	happy	cremad	1016_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1045_TAI_ANG_XX.wav	anger	cremad	1045_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1052_MTI_ANG_XX.wav	anger	cremad	1052_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1044_TAI_ANG_XX.wav	anger	cremad	1044_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1061_IEO_HAP_HI.wav	happy	cremad	1061_IEO_HAP_HI.wav
+./datasets/cremad/AudioWAV/1060_IEO_ANG_LO.wav	anger	cremad	1060_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1066_TIE_NEU_XX.wav	neutral	cremad	1066_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1024_WSI_HAP_XX.wav	happy	cremad	1024_WSI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_thought_angry.wav	anger	tess	YAF_thought_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N20.wav	neutral	shemo	F19N20.wav
+./datasets/cremad/AudioWAV/1049_TAI_ANG_XX.wav	anger	cremad	1049_TAI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02N09.wav	neutral	shemo	M02N09.wav
+./datasets/cremad/AudioWAV/1078_DFA_HAP_XX.wav	happy	cremad	1078_DFA_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_juice_sad.wav	sadness	tess	YAF_juice_sad.wav
+./datasets/cremad/AudioWAV/1053_IWW_NEU_XX.wav	neutral	cremad	1053_IWW_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A26.wav	anger	shemo	F24A26.wav
+./datasets/cremad/AudioWAV/1090_WSI_NEU_XX.wav	neutral	cremad	1090_WSI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_name_happy.wav	happy	tess	YAF_name_happy.wav
+./datasets/cremad/AudioWAV/1027_MTI_NEU_XX.wav	neutral	cremad	1027_MTI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M42A06.wav	anger	shemo	M42A06.wav
+./datasets/cremad/AudioWAV/1075_IWW_HAP_XX.wav	happy	cremad	1075_IWW_HAP_XX.wav
+./datasets/cremad/AudioWAV/1070_ITS_HAP_XX.wav	happy	cremad	1070_ITS_HAP_XX.wav
+./datasets/cremad/AudioWAV/1030_ITH_HAP_XX.wav	happy	cremad	1030_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1039_TIE_NEU_XX.wav	neutral	cremad	1039_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1056_MTI_ANG_XX.wav	anger	cremad	1056_MTI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09N05.wav	neutral	shemo	F09N05.wav
+./datasets/cremad/AudioWAV/1002_DFA_HAP_XX.wav	happy	cremad	1002_DFA_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_13/03-01-01-01-01-01-13.wav	neutral	ravdess	03-01-01-01-01-01-13.wav
+./datasets/cremad/AudioWAV/1043_TSI_NEU_XX.wav	neutral	cremad	1043_TSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1011_TIE_SAD_XX.wav	sadness	cremad	1011_TIE_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_page_sad.wav	sadness	tess	OAF_page_sad.wav
+./datasets/cremad/AudioWAV/1007_WSI_HAP_XX.wav	happy	cremad	1007_WSI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_dodge_happy.wav	happy	tess	OAF_dodge_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F18A01.wav	anger	shemo	F18A01.wav
+./datasets/cremad/AudioWAV/1025_IEO_ANG_LO.wav	anger	cremad	1025_IEO_ANG_LO.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-05-01-01-02-15.wav	anger	ravdess	03-01-05-01-01-02-15.wav
+./datasets/cremad/AudioWAV/1024_WSI_ANG_XX.wav	anger	cremad	1024_WSI_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_red_happy.wav	happy	tess	OAF_red_happy.wav
+./datasets/cremad/AudioWAV/1047_ITS_SAD_XX.wav	sadness	cremad	1047_ITS_SAD_XX.wav
+./datasets/savee-database/AudioData/DC/h06.wav	happy	savee	h06.wav
+./datasets/cremad/AudioWAV/1001_DFA_ANG_XX.wav	anger	cremad	1001_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1065_TSI_ANG_XX.wav	anger	cremad	1065_TSI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A10.wav	anger	shemo	F07A10.wav
+./datasets/cremad/AudioWAV/1036_IOM_ANG_XX.wav	anger	cremad	1036_IOM_ANG_XX.wav
+./datasets/cremad/AudioWAV/1011_ITH_NEU_XX.wav	neutral	cremad	1011_ITH_NEU_XX.wav
+./datasets/savee-database/AudioData/DC/sa02.wav	sadness	savee	sa02.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47N04.wav	neutral	shemo	M47N04.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M13H01.wav	happy	shemo	M13H01.wav
+./datasets/savee-database/AudioData/JE/h01.wav	happy	savee	h01.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09A08.wav	anger	shemo	F09A08.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_raise_sad.wav	sadness	tess	OAF_raise_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05S02.wav	sadness	shemo	M05S02.wav
+./datasets/cremad/AudioWAV/1021_DFA_ANG_XX.wav	anger	cremad	1021_DFA_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-04-02-01-01-21.wav	sadness	ravdess	03-01-04-02-01-01-21.wav
+./datasets/cremad/AudioWAV/1040_IWW_NEU_XX.wav	neutral	cremad	1040_IWW_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05S01.wav	sadness	shemo	M05S01.wav
+./datasets/cremad/AudioWAV/1052_ITH_SAD_XX.wav	sadness	cremad	1052_ITH_SAD_XX.wav
+./datasets/cremad/AudioWAV/1020_IWL_HAP_XX.wav	happy	cremad	1020_IWL_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M34S01.wav	sadness	shemo	M34S01.wav
+./datasets/ravdess-emotional-speech-audio/Actor_09/03-01-04-02-01-02-09.wav	sadness	ravdess	03-01-04-02-01-02-09.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_such_angry.wav	anger	tess	OAF_such_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A38.wav	anger	shemo	F24A38.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07N10.wav	neutral	shemo	F07N10.wav
+./datasets/ravdess-emotional-speech-audio/Actor_06/03-01-03-01-01-01-06.wav	happy	ravdess	03-01-03-01-01-01-06.wav
+./datasets/cremad/AudioWAV/1041_IEO_HAP_MD.wav	happy	cremad	1041_IEO_HAP_MD.wav
+./datasets/cremad/AudioWAV/1027_WSI_SAD_XX.wav	sadness	cremad	1027_WSI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_hall_sad.wav	sadness	tess	OAF_hall_sad.wav
+./datasets/cremad/AudioWAV/1051_IWL_HAP_XX.wav	happy	cremad	1051_IWL_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_walk_neutral.wav	neutral	tess	OAF_walk_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03S19.wav	sadness	shemo	M03S19.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_fat_happy.wav	happy	tess	OAF_fat_happy.wav
+./datasets/cremad/AudioWAV/1005_ITS_SAD_XX.wav	sadness	cremad	1005_ITS_SAD_XX.wav
+./datasets/cremad/AudioWAV/1041_TAI_HAP_XX.wav	happy	cremad	1041_TAI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1071_ITH_HAP_XX.wav	happy	cremad	1071_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1023_ITH_ANG_XX.wav	anger	cremad	1023_ITH_ANG_XX.wav
+./datasets/cremad/AudioWAV/1068_TSI_ANG_XX.wav	anger	cremad	1068_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1043_IEO_HAP_HI.wav	happy	cremad	1043_IEO_HAP_HI.wav
+./datasets/cremad/AudioWAV/1060_TAI_ANG_XX.wav	anger	cremad	1060_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1064_DFA_NEU_XX.wav	neutral	cremad	1064_DFA_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23A19.wav	anger	shemo	F23A19.wav
+./datasets/cremad/AudioWAV/1073_WSI_NEU_XX.wav	neutral	cremad	1073_WSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N23.wav	neutral	shemo	F05N23.wav
+./datasets/cremad/AudioWAV/1077_ITH_NEU_XX.wav	neutral	cremad	1077_ITH_NEU_XX.wav
+./datasets/cremad/AudioWAV/1030_TSI_ANG_XX.wav	anger	cremad	1030_TSI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M27N53.wav	neutral	shemo	M27N53.wav
+./datasets/cremad/AudioWAV/1047_IEO_ANG_HI.wav	anger	cremad	1047_IEO_ANG_HI.wav
+./datasets/cremad/AudioWAV/1031_TSI_NEU_XX.wav	neutral	cremad	1031_TSI_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-03-02-01-02-21.wav	happy	ravdess	03-01-03-02-01-02-21.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_fail_neutral.wav	neutral	tess	YAF_fail_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M31N06.wav	neutral	shemo	M31N06.wav
+./datasets/cremad/AudioWAV/1080_IEO_ANG_MD.wav	anger	cremad	1080_IEO_ANG_MD.wav
+./datasets/cremad/AudioWAV/1048_MTI_NEU_XX.wav	neutral	cremad	1048_MTI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lid_angry.wav	anger	tess	YAF_lid_angry.wav
+./datasets/cremad/AudioWAV/1081_ITH_ANG_XX.wav	anger	cremad	1081_ITH_ANG_XX.wav
+./datasets/cremad/AudioWAV/1053_ITH_NEU_XX.wav	neutral	cremad	1053_ITH_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02A05.wav	anger	shemo	M02A05.wav
+./datasets/cremad/AudioWAV/1091_DFA_HAP_XX.wav	happy	cremad	1091_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1077_WSI_ANG_XX.wav	anger	cremad	1077_WSI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03S07.wav	sadness	shemo	M03S07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M01N02.wav	neutral	shemo	M01N02.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-01-01-02-02-03.wav	neutral	ravdess	03-01-01-01-02-02-03.wav
+./datasets/cremad/AudioWAV/1058_ITS_SAD_XX.wav	sadness	cremad	1058_ITS_SAD_XX.wav
+./datasets/cremad/AudioWAV/1049_IOM_SAD_XX.wav	sadness	cremad	1049_IOM_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A54.wav	anger	shemo	F07A54.wav
+./datasets/cremad/AudioWAV/1050_ITS_SAD_XX.wav	sadness	cremad	1050_ITS_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A16.wav	anger	shemo	F07A16.wav
+./datasets/cremad/AudioWAV/1036_WSI_HAP_XX.wav	happy	cremad	1036_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1032_TAI_ANG_XX.wav	anger	cremad	1032_TAI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M40N20.wav	neutral	shemo	M40N20.wav
+./datasets/cremad/AudioWAV/1073_IEO_SAD_LO.wav	sadness	cremad	1073_IEO_SAD_LO.wav
+./datasets/cremad/AudioWAV/1086_IWW_ANG_XX.wav	anger	cremad	1086_IWW_ANG_XX.wav
+./datasets/cremad/AudioWAV/1090_TSI_ANG_XX.wav	anger	cremad	1090_TSI_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_18/03-01-03-01-02-02-18.wav	happy	ravdess	03-01-03-01-02-02-18.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_goal_sad.wav	sadness	tess	OAF_goal_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_lot_angry.wav	anger	tess	OAF_lot_angry.wav
+./datasets/cremad/AudioWAV/1033_DFA_ANG_XX.wav	anger	cremad	1033_DFA_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A26.wav	anger	shemo	F10A26.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/16b02Wb.wav	anger	emodb	16b02Wb.wav
+./datasets/cremad/AudioWAV/1054_IWW_HAP_XX.wav	happy	cremad	1054_IWW_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A29.wav	anger	shemo	F07A29.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47N21.wav	neutral	shemo	M47N21.wav
+./datasets/cremad/AudioWAV/1052_IOM_NEU_XX.wav	neutral	cremad	1052_IOM_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24H05.wav	happy	shemo	F24H05.wav
+./datasets/cremad/AudioWAV/1063_TSI_SAD_XX.wav	sadness	cremad	1063_TSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N51.wav	neutral	shemo	M04N51.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F20S02.wav	sadness	shemo	F20S02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_far_sad.wav	sadness	tess	OAF_far_sad.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08b01Fe.wav	happy	emodb	08b01Fe.wav
+./datasets/savee-database/AudioData/JE/a06.wav	anger	savee	a06.wav
+./datasets/cremad/AudioWAV/1015_TSI_ANG_XX.wav	anger	cremad	1015_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1019_IEO_HAP_MD.wav	happy	cremad	1019_IEO_HAP_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_soap_sad.wav	sadness	tess	OAF_soap_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_king_sad.wav	sadness	tess	YAF_king_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_voice_sad.wav	sadness	tess	OAF_voice_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mill_angry.wav	anger	tess	YAF_mill_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F28N01.wav	neutral	shemo	F28N01.wav
+./datasets/cremad/AudioWAV/1033_IWL_ANG_XX.wav	anger	cremad	1033_IWL_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_size_sad.wav	sadness	tess	YAF_size_sad.wav
+./datasets/cremad/AudioWAV/1088_IEO_NEU_XX.wav	neutral	cremad	1088_IEO_NEU_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08a01Wc.wav	anger	emodb	08a01Wc.wav
+./datasets/cremad/AudioWAV/1085_TIE_SAD_XX.wav	sadness	cremad	1085_TIE_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-05-01-01-02-03.wav	anger	ravdess	03-01-05-01-01-02-03.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_moon_happy.wav	happy	tess	YAF_moon_happy.wav
+./datasets/cremad/AudioWAV/1012_IWW_NEU_XX.wav	neutral	cremad	1012_IWW_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N07.wav	neutral	shemo	F19N07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M40N49.wav	neutral	shemo	M40N49.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03N03.wav	neutral	shemo	M03N03.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A51.wav	anger	shemo	F07A51.wav
+./datasets/cremad/AudioWAV/1022_TSI_NEU_XX.wav	neutral	cremad	1022_TSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09A12.wav	anger	shemo	F09A12.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A25.wav	anger	shemo	M53A25.wav
+./datasets/cremad/AudioWAV/1091_MTI_ANG_XX.wav	anger	cremad	1091_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1090_TIE_SAD_XX.wav	sadness	cremad	1090_TIE_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A14.wav	anger	shemo	M53A14.wav
+./datasets/cremad/AudioWAV/1087_DFA_HAP_XX.wav	happy	cremad	1087_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1038_IEO_ANG_LO.wav	anger	cremad	1038_IEO_ANG_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03S20.wav	sadness	shemo	M03S20.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N52.wav	neutral	shemo	M12N52.wav
+./datasets/ravdess-emotional-speech-audio/Actor_02/03-01-01-01-02-02-02.wav	neutral	ravdess	03-01-01-01-02-02-02.wav
+./datasets/cremad/AudioWAV/1078_IWL_SAD_XX.wav	sadness	cremad	1078_IWL_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M45A01.wav	anger	shemo	M45A01.wav
+./datasets/cremad/AudioWAV/1081_WSI_ANG_XX.wav	anger	cremad	1081_WSI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N66.wav	neutral	shemo	M12N66.wav
+./datasets/cremad/AudioWAV/1003_IEO_ANG_LO.wav	anger	cremad	1003_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1046_IWW_NEU_XX.wav	neutral	cremad	1046_IWW_NEU_XX.wav
+./datasets/cremad/AudioWAV/1079_ITS_SAD_XX.wav	sadness	cremad	1079_ITS_SAD_XX.wav
+./datasets/cremad/AudioWAV/1053_ITH_HAP_XX.wav	happy	cremad	1053_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1089_IEO_HAP_LO.wav	happy	cremad	1089_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1022_IWW_NEU_XX.wav	neutral	cremad	1022_IWW_NEU_XX.wav
+./datasets/cremad/AudioWAV/1076_TIE_NEU_XX.wav	neutral	cremad	1076_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1051_IEO_ANG_LO.wav	anger	cremad	1051_IEO_ANG_LO.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_page_angry.wav	anger	tess	OAF_page_angry.wav
+./datasets/cremad/AudioWAV/1007_TSI_SAD_XX.wav	sadness	cremad	1007_TSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F11S04.wav	sadness	shemo	F11S04.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/16b10Tb.wav	sadness	emodb	16b10Tb.wav
+./datasets/ravdess-emotional-speech-audio/Actor_05/03-01-01-01-02-01-05.wav	neutral	ravdess	03-01-01-01-02-01-05.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_hire_happy.wav	happy	tess	OAF_hire_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_haze_neutral.wav	neutral	tess	YAF_haze_neutral.wav
+./datasets/cremad/AudioWAV/1021_TSI_NEU_XX.wav	neutral	cremad	1021_TSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1047_IWL_SAD_XX.wav	sadness	cremad	1047_IWL_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_lid_sad.wav	sadness	tess	OAF_lid_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F06H03.wav	happy	shemo	F06H03.wav
+./datasets/cremad/AudioWAV/1003_ITH_HAP_XX.wav	happy	cremad	1003_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A61.wav	anger	shemo	F24A61.wav
+./datasets/cremad/AudioWAV/1039_ITS_HAP_XX.wav	happy	cremad	1039_ITS_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_knock_happy.wav	happy	tess	OAF_knock_happy.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/16a02Nb.wav	neutral	emodb	16a02Nb.wav
+./datasets/cremad/AudioWAV/1074_TSI_ANG_XX.wav	anger	cremad	1074_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1077_TIE_SAD_XX.wav	sadness	cremad	1077_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1027_IWL_SAD_XX.wav	sadness	cremad	1027_IWL_SAD_XX.wav
+./datasets/cremad/AudioWAV/1029_DFA_HAP_XX.wav	happy	cremad	1029_DFA_HAP_XX.wav
+./datasets/cremad/AudioWAV/1061_IWL_ANG_XX.wav	anger	cremad	1061_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1071_IWL_ANG_XX.wav	anger	cremad	1071_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1036_IEO_SAD_HI.wav	sadness	cremad	1036_IEO_SAD_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M16A22.wav	anger	shemo	M16A22.wav
+./datasets/savee-database/AudioData/JE/h12.wav	happy	savee	h12.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_soup_angry.wav	anger	tess	OAF_soup_angry.wav
+./datasets/cremad/AudioWAV/1088_IWL_ANG_XX.wav	anger	cremad	1088_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1083_IOM_NEU_XX.wav	neutral	cremad	1083_IOM_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_01/03-01-05-01-02-02-01.wav	anger	ravdess	03-01-05-01-02-02-01.wav
+./datasets/cremad/AudioWAV/1027_TAI_SAD_XX.wav	sadness	cremad	1027_TAI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1004_TIE_NEU_XX.wav	neutral	cremad	1004_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1057_ITS_HAP_XX.wav	happy	cremad	1057_ITS_HAP_XX.wav
+./datasets/cremad/AudioWAV/1017_DFA_ANG_XX.wav	anger	cremad	1017_DFA_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_18/03-01-05-01-02-02-18.wav	anger	ravdess	03-01-05-01-02-02-18.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M29N01.wav	neutral	shemo	M29N01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_kite_neutral.wav	neutral	tess	OAF_kite_neutral.wav
+./datasets/ravdess-emotional-speech-audio/Actor_22/03-01-04-01-02-01-22.wav	sadness	ravdess	03-01-04-01-02-01-22.wav
+./datasets/ravdess-emotional-speech-audio/Actor_23/03-01-04-01-02-01-23.wav	sadness	ravdess	03-01-04-01-02-01-23.wav
+./datasets/cremad/AudioWAV/1006_TIE_HAP_XX.wav	happy	cremad	1006_TIE_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_perch_happy.wav	happy	tess	YAF_perch_happy.wav
+./datasets/cremad/AudioWAV/1083_IEO_HAP_MD.wav	happy	cremad	1083_IEO_HAP_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_goal_angry.wav	anger	tess	OAF_goal_angry.wav
+./datasets/cremad/AudioWAV/1085_IEO_SAD_LO.wav	sadness	cremad	1085_IEO_SAD_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M37N17.wav	neutral	shemo	M37N17.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_shall_angry.wav	anger	tess	OAF_shall_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A69.wav	anger	shemo	F24A69.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_size_angry.wav	anger	tess	YAF_size_angry.wav
+./datasets/cremad/AudioWAV/1014_IEO_ANG_HI.wav	anger	cremad	1014_IEO_ANG_HI.wav
+./datasets/ravdess-emotional-speech-audio/Actor_24/03-01-01-01-02-02-24.wav	neutral	ravdess	03-01-01-01-02-02-24.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F30S12.wav	sadness	shemo	F30S12.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M16A07.wav	anger	shemo	M16A07.wav
+./datasets/cremad/AudioWAV/1027_IWW_NEU_XX.wav	neutral	cremad	1027_IWW_NEU_XX.wav
+./datasets/cremad/AudioWAV/1055_TSI_SAD_XX.wav	sadness	cremad	1055_TSI_SAD_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/12b09Wc.wav	anger	emodb	12b09Wc.wav
+./datasets/cremad/AudioWAV/1061_IEO_SAD_MD.wav	sadness	cremad	1061_IEO_SAD_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_lease_sad.wav	sadness	tess	OAF_lease_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_knock_neutral.wav	neutral	tess	YAF_knock_neutral.wav
+./datasets/cremad/AudioWAV/1002_IEO_ANG_HI.wav	anger	cremad	1002_IEO_ANG_HI.wav
+./datasets/ravdess-emotional-speech-audio/Actor_19/03-01-05-01-02-02-19.wav	anger	ravdess	03-01-05-01-02-02-19.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A26.wav	anger	shemo	M53A26.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47A13.wav	anger	shemo	M47A13.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07H10.wav	happy	shemo	F07H10.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21N23.wav	neutral	shemo	F21N23.wav
+./datasets/cremad/AudioWAV/1080_TIE_HAP_XX.wav	happy	cremad	1080_TIE_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M06S03.wav	sadness	shemo	M06S03.wav
+./datasets/cremad/AudioWAV/1031_IWW_SAD_XX.wav	sadness	cremad	1031_IWW_SAD_XX.wav
+./datasets/savee-database/AudioData/DC/a10.wav	anger	savee	a10.wav
+./datasets/cremad/AudioWAV/1056_TSI_HAP_XX.wav	happy	cremad	1056_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1054_TAI_NEU_XX.wav	neutral	cremad	1054_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1064_ITH_ANG_XX.wav	anger	cremad	1064_ITH_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N02.wav	neutral	shemo	M12N02.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-03-02-02-01-03.wav	happy	ravdess	03-01-03-02-02-01-03.wav
+./datasets/cremad/AudioWAV/1002_IWW_SAD_XX.wav	sadness	cremad	1002_IWW_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-03-01-01-01-03.wav	happy	ravdess	03-01-03-01-01-01-03.wav
+./datasets/ravdess-emotional-speech-audio/Actor_07/03-01-05-01-02-02-07.wav	anger	ravdess	03-01-05-01-02-02-07.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_lid_happy.wav	happy	tess	OAF_lid_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_death_sad.wav	sadness	tess	OAF_death_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_void_happy.wav	happy	tess	YAF_void_happy.wav
+./datasets/cremad/AudioWAV/1022_DFA_SAD_XX.wav	sadness	cremad	1022_DFA_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_make_angry.wav	anger	tess	OAF_make_angry.wav
+./datasets/ravdess-emotional-speech-audio/Actor_01/03-01-03-01-01-02-01.wav	happy	ravdess	03-01-03-01-01-02-01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_third_sad.wav	sadness	tess	OAF_third_sad.wav
+./datasets/cremad/AudioWAV/1037_IEO_HAP_HI.wav	happy	cremad	1037_IEO_HAP_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N30.wav	neutral	shemo	M12N30.wav
+./datasets/ravdess-emotional-speech-audio/Actor_02/03-01-03-02-01-02-02.wav	happy	ravdess	03-01-03-02-01-02-02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_gin_sad.wav	sadness	tess	OAF_gin_sad.wav
+./datasets/cremad/AudioWAV/1029_WSI_NEU_XX.wav	neutral	cremad	1029_WSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07S30.wav	sadness	shemo	F07S30.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F29N05.wav	neutral	shemo	F29N05.wav
+./datasets/cremad/AudioWAV/1017_MTI_ANG_XX.wav	anger	cremad	1017_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1064_TIE_HAP_XX.wav	happy	cremad	1064_TIE_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_said_sad.wav	sadness	tess	OAF_said_sad.wav
+./datasets/cremad/AudioWAV/1011_IWW_SAD_XX.wav	sadness	cremad	1011_IWW_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23N11.wav	neutral	shemo	F23N11.wav
+./datasets/cremad/AudioWAV/1050_IWL_NEU_XX.wav	neutral	cremad	1050_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M27N58.wav	neutral	shemo	M27N58.wav
+./datasets/cremad/AudioWAV/1045_IWL_NEU_XX.wav	neutral	cremad	1045_IWL_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_home_sad.wav	sadness	tess	YAF_home_sad.wav
+./datasets/cremad/AudioWAV/1044_WSI_SAD_XX.wav	sadness	cremad	1044_WSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1011_IWL_HAP_XX.wav	happy	cremad	1011_IWL_HAP_XX.wav
+./datasets/cremad/AudioWAV/1069_WSI_HAP_XX.wav	happy	cremad	1069_WSI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_join_happy.wav	happy	tess	YAF_join_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_good_neutral.wav	neutral	tess	YAF_good_neutral.wav
+./datasets/cremad/AudioWAV/1091_DFA_ANG_XX.wav	anger	cremad	1091_DFA_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M31A01.wav	anger	shemo	M31A01.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M55H01.wav	happy	shemo	M55H01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_soap_sad.wav	sadness	tess	YAF_soap_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_shack_sad.wav	sadness	tess	OAF_shack_sad.wav
+./datasets/cremad/AudioWAV/1042_IWL_ANG_XX.wav	anger	cremad	1042_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1047_ITS_ANG_XX.wav	anger	cremad	1047_ITS_ANG_XX.wav
+./datasets/cremad/AudioWAV/1019_IWW_HAP_XX.wav	happy	cremad	1019_IWW_HAP_XX.wav
+./datasets/cremad/AudioWAV/1017_IWL_NEU_XX.wav	neutral	cremad	1017_IWL_NEU_XX.wav
+./datasets/cremad/AudioWAV/1068_IOM_SAD_XX.wav	sadness	cremad	1068_IOM_SAD_XX.wav
+./datasets/cremad/AudioWAV/1084_TIE_SAD_XX.wav	sadness	cremad	1084_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1053_IEO_ANG_LO.wav	anger	cremad	1053_IEO_ANG_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M08H01.wav	happy	shemo	M08H01.wav
+./datasets/cremad/AudioWAV/1007_TIE_ANG_XX.wav	anger	cremad	1007_TIE_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N09.wav	neutral	shemo	F05N09.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M22N17.wav	neutral	shemo	M22N17.wav
+./datasets/cremad/AudioWAV/1076_WSI_SAD_XX.wav	sadness	cremad	1076_WSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07S47.wav	sadness	shemo	F07S47.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M34A01.wav	anger	shemo	M34A01.wav
+./datasets/cremad/AudioWAV/1040_ITS_NEU_XX.wav	neutral	cremad	1040_ITS_NEU_XX.wav
+./datasets/cremad/AudioWAV/1043_IWW_NEU_XX.wav	neutral	cremad	1043_IWW_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_22/03-01-03-01-01-02-22.wav	happy	ravdess	03-01-03-01-01-02-22.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F03S05.wav	sadness	shemo	F03S05.wav
+./datasets/cremad/AudioWAV/1001_IEO_NEU_XX.wav	neutral	cremad	1001_IEO_NEU_XX.wav
+./datasets/cremad/AudioWAV/1085_WSI_SAD_XX.wav	sadness	cremad	1085_WSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F28A22.wav	anger	shemo	F28A22.wav
+./datasets/cremad/AudioWAV/1022_IWL_SAD_XX.wav	sadness	cremad	1022_IWL_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A41.wav	anger	shemo	F10A41.wav
+./datasets/cremad/AudioWAV/1045_MTI_NEU_XX.wav	neutral	cremad	1045_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1058_MTI_ANG_XX.wav	anger	cremad	1058_MTI_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_tell_angry.wav	anger	tess	OAF_tell_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07S37.wav	sadness	shemo	F07S37.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F01A13.wav	anger	shemo	F01A13.wav
+./datasets/cremad/AudioWAV/1086_IOM_HAP_XX.wav	happy	cremad	1086_IOM_HAP_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/11a04Nd.wav	neutral	emodb	11a04Nd.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09S16.wav	sadness	shemo	F09S16.wav
+./datasets/cremad/AudioWAV/1026_WSI_HAP_XX.wav	happy	cremad	1026_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1031_IOM_HAP_XX.wav	happy	cremad	1031_IOM_HAP_XX.wav
+./datasets/cremad/AudioWAV/1040_TSI_NEU_XX.wav	neutral	cremad	1040_TSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1068_TSI_SAD_XX.wav	sadness	cremad	1068_TSI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mess_happy.wav	happy	tess	YAF_mess_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05N17.wav	neutral	shemo	M05N17.wav
+./datasets/ravdess-emotional-speech-audio/Actor_23/03-01-05-01-02-02-23.wav	anger	ravdess	03-01-05-01-02-02-23.wav
+./datasets/cremad/AudioWAV/1067_ITH_NEU_XX.wav	neutral	cremad	1067_ITH_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M32H02.wav	happy	shemo	M32H02.wav
+./datasets/cremad/AudioWAV/1042_WSI_HAP_XX.wav	happy	cremad	1042_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1065_WSI_HAP_XX.wav	happy	cremad	1065_WSI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_hurl_sad.wav	sadness	tess	OAF_hurl_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M44N01.wav	neutral	shemo	M44N01.wav
+./datasets/cremad/AudioWAV/1032_IEO_HAP_LO.wav	happy	cremad	1032_IEO_HAP_LO.wav
+./datasets/ravdess-emotional-speech-audio/Actor_22/03-01-01-01-01-01-22.wav	neutral	ravdess	03-01-01-01-01-01-22.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05N09.wav	neutral	shemo	M05N09.wav
+./datasets/cremad/AudioWAV/1035_DFA_SAD_XX.wav	sadness	cremad	1035_DFA_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19S01.wav	sadness	shemo	F19S01.wav
+./datasets/ravdess-emotional-speech-audio/Actor_17/03-01-03-02-01-02-17.wav	happy	ravdess	03-01-03-02-01-02-17.wav
+./datasets/cremad/AudioWAV/1044_IOM_ANG_XX.wav	anger	cremad	1044_IOM_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F06H05.wav	happy	shemo	F06H05.wav
+./datasets/cremad/AudioWAV/1046_ITS_HAP_XX.wav	happy	cremad	1046_ITS_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28S23.wav	sadness	shemo	M28S23.wav
+./datasets/cremad/AudioWAV/1078_TAI_NEU_XX.wav	neutral	cremad	1078_TAI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_choice_happy.wav	happy	tess	OAF_choice_happy.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/13a02Wa.wav	anger	emodb	13a02Wa.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_lose_sad.wav	sadness	tess	YAF_lose_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A18.wav	anger	shemo	F10A18.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M36S01.wav	sadness	shemo	M36S01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_near_angry.wav	anger	tess	YAF_near_angry.wav
+./datasets/cremad/AudioWAV/1029_IOM_HAP_XX.wav	happy	cremad	1029_IOM_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_gaze_sad.wav	sadness	tess	OAF_gaze_sad.wav
+./datasets/cremad/AudioWAV/1063_TSI_HAP_XX.wav	happy	cremad	1063_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1005_TSI_HAP_XX.wav	happy	cremad	1005_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1076_MTI_NEU_XX.wav	neutral	cremad	1076_MTI_NEU_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/16a04Wc.wav	anger	emodb	16a04Wc.wav
+./datasets/cremad/AudioWAV/1091_MTI_NEU_XX.wav	neutral	cremad	1091_MTI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_ripe_angry.wav	anger	tess	OAF_ripe_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F14N07.wav	neutral	shemo	F14N07.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sail_happy.wav	happy	tess	YAF_sail_happy.wav
+./datasets/cremad/AudioWAV/1035_ITH_NEU_XX.wav	neutral	cremad	1035_ITH_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_long_neutral.wav	neutral	tess	YAF_long_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_talk_neutral.wav	neutral	tess	YAF_talk_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M16A31.wav	anger	shemo	M16A31.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_kill_neutral.wav	neutral	tess	OAF_kill_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F03A06.wav	anger	shemo	F03A06.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26S03.wav	sadness	shemo	M26S03.wav
+./datasets/cremad/AudioWAV/1037_WSI_SAD_XX.wav	sadness	cremad	1037_WSI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_kite_angry.wav	anger	tess	YAF_kite_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M18N04.wav	neutral	shemo	M18N04.wav
+./datasets/cremad/AudioWAV/1046_TIE_SAD_XX.wav	sadness	cremad	1046_TIE_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25N05.wav	neutral	shemo	M25N05.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-05-02-02-02-03.wav	anger	ravdess	03-01-05-02-02-02-03.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M08N04.wav	neutral	shemo	M08N04.wav
+./datasets/cremad/AudioWAV/1017_IEO_NEU_XX.wav	neutral	cremad	1017_IEO_NEU_XX.wav
+./datasets/cremad/AudioWAV/1005_IEO_ANG_HI.wav	anger	cremad	1005_IEO_ANG_HI.wav
+./datasets/cremad/AudioWAV/1054_IWL_SAD_XX.wav	sadness	cremad	1054_IWL_SAD_XX.wav
+./datasets/cremad/AudioWAV/1062_WSI_SAD_XX.wav	sadness	cremad	1062_WSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28A32.wav	anger	shemo	M28A32.wav
+./datasets/cremad/AudioWAV/1091_WSI_NEU_XX.wav	neutral	cremad	1091_WSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1035_IEO_SAD_MD.wav	sadness	cremad	1035_IEO_SAD_MD.wav
+./datasets/cremad/AudioWAV/1073_ITS_NEU_XX.wav	neutral	cremad	1073_ITS_NEU_XX.wav
+./datasets/cremad/AudioWAV/1014_IEO_SAD_MD.wav	sadness	cremad	1014_IEO_SAD_MD.wav
+./datasets/cremad/AudioWAV/1049_IWW_ANG_XX.wav	anger	cremad	1049_IWW_ANG_XX.wav
+./datasets/cremad/AudioWAV/1038_IEO_SAD_LO.wav	sadness	cremad	1038_IEO_SAD_LO.wav
+./datasets/cremad/AudioWAV/1039_TAI_ANG_XX.wav	anger	cremad	1039_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1072_IEO_NEU_XX.wav	neutral	cremad	1072_IEO_NEU_XX.wav
+./datasets/cremad/AudioWAV/1090_WSI_HAP_XX.wav	happy	cremad	1090_WSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1081_IOM_HAP_XX.wav	happy	cremad	1081_IOM_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M22N29.wav	neutral	shemo	M22N29.wav
+./datasets/cremad/AudioWAV/1043_ITS_ANG_XX.wav	anger	cremad	1043_ITS_ANG_XX.wav
+./datasets/cremad/AudioWAV/1046_IOM_HAP_XX.wav	happy	cremad	1046_IOM_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F09A07.wav	anger	shemo	F09A07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A21.wav	anger	shemo	M53A21.wav
+./datasets/cremad/AudioWAV/1052_IWL_ANG_XX.wav	anger	cremad	1052_IWL_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F28S05.wav	sadness	shemo	F28S05.wav
+./datasets/ravdess-emotional-speech-audio/Actor_12/03-01-01-01-02-02-12.wav	neutral	ravdess	03-01-01-01-02-02-12.wav
+./datasets/cremad/AudioWAV/1014_ITH_ANG_XX.wav	anger	cremad	1014_ITH_ANG_XX.wav
+./datasets/cremad/AudioWAV/1070_ITS_SAD_XX.wav	sadness	cremad	1070_ITS_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M40N11.wav	neutral	shemo	M40N11.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M32S04.wav	sadness	shemo	M32S04.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M20N04.wav	neutral	shemo	M20N04.wav
+./datasets/cremad/AudioWAV/1047_TIE_NEU_XX.wav	neutral	cremad	1047_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1043_IEO_SAD_HI.wav	sadness	cremad	1043_IEO_SAD_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A07.wav	anger	shemo	F24A07.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/11a04Wc.wav	anger	emodb	11a04Wc.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F05N39.wav	neutral	shemo	F05N39.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07N11.wav	neutral	shemo	F07N11.wav
+./datasets/cremad/AudioWAV/1050_TAI_NEU_XX.wav	neutral	cremad	1050_TAI_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_08/03-01-05-02-02-02-08.wav	anger	ravdess	03-01-05-02-02-02-08.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mill_sad.wav	sadness	tess	YAF_mill_sad.wav
+./datasets/cremad/AudioWAV/1026_TSI_HAP_XX.wav	happy	cremad	1026_TSI_HAP_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/03b03Tc.wav	sadness	emodb	03b03Tc.wav
+./datasets/cremad/AudioWAV/1041_IWL_NEU_XX.wav	neutral	cremad	1041_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F11N06.wav	neutral	shemo	F11N06.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_back_happy.wav	happy	tess	OAF_back_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47A08.wav	anger	shemo	M47A08.wav
+./datasets/cremad/AudioWAV/1013_IEO_SAD_LO.wav	sadness	cremad	1013_IEO_SAD_LO.wav
+./datasets/cremad/AudioWAV/1034_TIE_SAD_XX.wav	sadness	cremad	1034_TIE_SAD_XX.wav
+./datasets/savee-database/AudioData/JK/n27.wav	neutral	savee	n27.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/03a01Nc.wav	neutral	emodb	03a01Nc.wav
+./datasets/cremad/AudioWAV/1082_IEO_ANG_LO.wav	anger	cremad	1082_IEO_ANG_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M19N02.wav	neutral	shemo	M19N02.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_gaze_sad.wav	sadness	tess	YAF_gaze_sad.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/16b01Wa.wav	anger	emodb	16b01Wa.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N08.wav	neutral	shemo	F19N08.wav
+./datasets/savee-database/AudioData/JK/n21.wav	neutral	savee	n21.wav
+./datasets/cremad/AudioWAV/1004_TIE_SAD_XX.wav	sadness	cremad	1004_TIE_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_lose_neutral.wav	neutral	tess	YAF_lose_neutral.wav
+./datasets/cremad/AudioWAV/1007_ITS_NEU_XX.wav	neutral	cremad	1007_ITS_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_hit_neutral.wav	neutral	tess	OAF_hit_neutral.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_soap_neutral.wav	neutral	tess	YAF_soap_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M22N26.wav	neutral	shemo	M22N26.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07S28.wav	sadness	shemo	F07S28.wav
+./datasets/cremad/AudioWAV/1055_TIE_ANG_XX.wav	anger	cremad	1055_TIE_ANG_XX.wav
+./datasets/cremad/AudioWAV/1062_IEO_HAP_HI.wav	happy	cremad	1062_IEO_HAP_HI.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_home_neutral.wav	neutral	tess	YAF_home_neutral.wav
+./datasets/cremad/AudioWAV/1036_DFA_HAP_XX.wav	happy	cremad	1036_DFA_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_raise_happy.wav	happy	tess	YAF_raise_happy.wav
+./datasets/cremad/AudioWAV/1047_IWL_NEU_XX.wav	neutral	cremad	1047_IWL_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M37N11.wav	neutral	shemo	M37N11.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_keep_happy.wav	happy	tess	YAF_keep_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M16H04.wav	happy	shemo	M16H04.wav
+./datasets/cremad/AudioWAV/1034_IEO_HAP_MD.wav	happy	cremad	1034_IEO_HAP_MD.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/13b09Wa.wav	anger	emodb	13b09Wa.wav
+./datasets/cremad/AudioWAV/1065_TAI_NEU_XX.wav	neutral	cremad	1065_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1011_TIE_ANG_XX.wav	anger	cremad	1011_TIE_ANG_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08a02Tb.wav	sadness	emodb	08a02Tb.wav
+./datasets/cremad/AudioWAV/1073_IWW_HAP_XX.wav	happy	cremad	1073_IWW_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_five_neutral.wav	neutral	tess	OAF_five_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A20.wav	anger	shemo	F24A20.wav
+./datasets/cremad/AudioWAV/1006_IWW_HAP_XX.wav	happy	cremad	1006_IWW_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F04A04.wav	anger	shemo	F04A04.wav
+./datasets/cremad/AudioWAV/1013_MTI_SAD_XX.wav	sadness	cremad	1013_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1071_IEO_HAP_HI.wav	happy	cremad	1071_IEO_HAP_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M21N06.wav	neutral	shemo	M21N06.wav
+./datasets/cremad/AudioWAV/1077_ITH_SAD_XX.wav	sadness	cremad	1077_ITH_SAD_XX.wav
+./datasets/cremad/AudioWAV/1077_TIE_NEU_XX.wav	neutral	cremad	1077_TIE_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_keep_neutral.wav	neutral	tess	YAF_keep_neutral.wav
+./datasets/cremad/AudioWAV/1091_IWW_ANG_XX.wav	anger	cremad	1091_IWW_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_keep_angry.wav	anger	tess	OAF_keep_angry.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_yes_sad.wav	sadness	tess	YAF_yes_sad.wav
+./datasets/cremad/AudioWAV/1050_IEO_SAD_HI.wav	sadness	cremad	1050_IEO_SAD_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M05S11.wav	sadness	shemo	M05S11.wav
+./datasets/cremad/AudioWAV/1020_IEO_SAD_LO.wav	sadness	cremad	1020_IEO_SAD_LO.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_nag_happy.wav	happy	tess	OAF_nag_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F04N02.wav	neutral	shemo	F04N02.wav
+./datasets/cremad/AudioWAV/1072_IEO_SAD_LO.wav	sadness	cremad	1072_IEO_SAD_LO.wav
+./datasets/cremad/AudioWAV/1026_ITH_NEU_XX.wav	neutral	cremad	1026_ITH_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-05-01-01-01-21.wav	anger	ravdess	03-01-05-01-01-01-21.wav
+./datasets/cremad/AudioWAV/1040_IEO_ANG_MD.wav	anger	cremad	1040_IEO_ANG_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A01.wav	anger	shemo	F10A01.wav
+./datasets/cremad/AudioWAV/1016_TIE_SAD_XX.wav	sadness	cremad	1016_TIE_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_date_sad.wav	sadness	tess	YAF_date_sad.wav
+./datasets/savee-database/AudioData/JE/a07.wav	anger	savee	a07.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M50N02.wav	neutral	shemo	M50N02.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M51N21.wav	neutral	shemo	M51N21.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F06S06.wav	sadness	shemo	F06S06.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rain_angry.wav	anger	tess	YAF_rain_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F12A03.wav	anger	shemo	F12A03.wav
+./datasets/cremad/AudioWAV/1053_TIE_ANG_XX.wav	anger	cremad	1053_TIE_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_puff_neutral.wav	neutral	tess	YAF_puff_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19S04.wav	sadness	shemo	F19S04.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-03-01-02-01-21.wav	happy	ravdess	03-01-03-01-02-01-21.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/12a02Nb.wav	neutral	emodb	12a02Nb.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M47A19.wav	anger	shemo	M47A19.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M38N07.wav	neutral	shemo	M38N07.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_should_sad.wav	sadness	tess	YAF_should_sad.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_loaf_neutral.wav	neutral	tess	YAF_loaf_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M20A04.wav	anger	shemo	M20A04.wav
+./datasets/cremad/AudioWAV/1084_TIE_HAP_XX.wav	happy	cremad	1084_TIE_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_met_happy.wav	happy	tess	OAF_met_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A43.wav	anger	shemo	F07A43.wav
+./datasets/cremad/AudioWAV/1026_TIE_NEU_XX.wav	neutral	cremad	1026_TIE_NEU_XX.wav
+./datasets/savee-database/AudioData/DC/a02.wav	anger	savee	a02.wav
+./datasets/cremad/AudioWAV/1013_ITS_NEU_XX.wav	neutral	cremad	1013_ITS_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F24A55.wav	anger	shemo	F24A55.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_red_sad.wav	sadness	tess	YAF_red_sad.wav
+./datasets/savee-database/AudioData/JK/h10.wav	happy	savee	h10.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21N07.wav	neutral	shemo	F21N07.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_chain_happy.wav	happy	tess	YAF_chain_happy.wav
+./datasets/cremad/AudioWAV/1072_DFA_NEU_XX.wav	neutral	cremad	1072_DFA_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21A09.wav	anger	shemo	F21A09.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F02S02.wav	sadness	shemo	F02S02.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53N20.wav	neutral	shemo	M53N20.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_void_angry.wav	anger	tess	OAF_void_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02A17.wav	anger	shemo	M02A17.wav
+./datasets/cremad/AudioWAV/1080_WSI_ANG_XX.wav	anger	cremad	1080_WSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1024_IWL_ANG_XX.wav	anger	cremad	1024_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1075_IOM_ANG_XX.wav	anger	cremad	1075_IOM_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_rot_happy.wav	happy	tess	OAF_rot_happy.wav
+./datasets/cremad/AudioWAV/1085_ITH_NEU_XX.wav	neutral	cremad	1085_ITH_NEU_XX.wav
+./datasets/cremad/AudioWAV/1046_IEO_HAP_LO.wav	happy	cremad	1046_IEO_HAP_LO.wav
+./datasets/ravdess-emotional-speech-audio/Actor_13/03-01-01-01-01-02-13.wav	neutral	ravdess	03-01-01-01-01-02-13.wav
+./datasets/cremad/AudioWAV/1014_IWL_NEU_XX.wav	neutral	cremad	1014_IWL_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_cheek_neutral.wav	neutral	tess	OAF_cheek_neutral.wav
+./datasets/cremad/AudioWAV/1004_IEO_ANG_LO.wav	anger	cremad	1004_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1016_TSI_ANG_XX.wav	anger	cremad	1016_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1034_ITH_HAP_XX.wav	happy	cremad	1034_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M41H06.wav	happy	shemo	M41H06.wav
+./datasets/cremad/AudioWAV/1013_DFA_ANG_XX.wav	anger	cremad	1013_DFA_ANG_XX.wav
+./datasets/cremad/AudioWAV/1046_TIE_NEU_XX.wav	neutral	cremad	1046_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1089_IEO_SAD_MD.wav	sadness	cremad	1089_IEO_SAD_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N24.wav	neutral	shemo	M12N24.wav
+./datasets/cremad/AudioWAV/1058_ITH_HAP_XX.wav	happy	cremad	1058_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02N12.wav	neutral	shemo	M02N12.wav
+./datasets/cremad/AudioWAV/1090_IWL_SAD_XX.wav	sadness	cremad	1090_IWL_SAD_XX.wav
+./datasets/cremad/AudioWAV/1062_ITS_HAP_XX.wav	happy	cremad	1062_ITS_HAP_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08b01Fd.wav	happy	emodb	08b01Fd.wav
+./datasets/cremad/AudioWAV/1026_IWL_SAD_XX.wav	sadness	cremad	1026_IWL_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_18/03-01-05-01-01-02-18.wav	anger	ravdess	03-01-05-01-01-02-18.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_yes_happy.wav	happy	tess	OAF_yes_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F20H05.wav	happy	shemo	F20H05.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M25A55.wav	anger	shemo	M25A55.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03A46.wav	anger	shemo	M03A46.wav
+./datasets/cremad/AudioWAV/1031_IOM_SAD_XX.wav	sadness	cremad	1031_IOM_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_note_happy.wav	happy	tess	YAF_note_happy.wav
+./datasets/cremad/AudioWAV/1018_IEO_HAP_LO.wav	happy	cremad	1018_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1021_TAI_NEU_XX.wav	neutral	cremad	1021_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1030_IOM_ANG_XX.wav	anger	cremad	1030_IOM_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M18N03.wav	neutral	shemo	M18N03.wav
+./datasets/cremad/AudioWAV/1014_MTI_NEU_XX.wav	neutral	cremad	1014_MTI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1024_MTI_SAD_XX.wav	sadness	cremad	1024_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1053_MTI_NEU_XX.wav	neutral	cremad	1053_MTI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A39.wav	anger	shemo	F07A39.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_love_neutral.wav	neutral	tess	YAF_love_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F19N17.wav	neutral	shemo	F19N17.wav
+./datasets/cremad/AudioWAV/1012_IEO_HAP_MD.wav	happy	cremad	1012_IEO_HAP_MD.wav
+./datasets/cremad/AudioWAV/1089_TSI_HAP_XX.wav	happy	cremad	1089_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1018_TSI_HAP_XX.wav	happy	cremad	1018_TSI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_goose_happy.wav	happy	tess	OAF_goose_happy.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A41.wav	anger	shemo	M12A41.wav
+./datasets/cremad/AudioWAV/1027_IEO_HAP_HI.wav	happy	cremad	1027_IEO_HAP_HI.wav
+./datasets/cremad/AudioWAV/1082_TSI_ANG_XX.wav	anger	cremad	1082_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1017_MTI_SAD_XX.wav	sadness	cremad	1017_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1065_ITS_NEU_XX.wav	neutral	cremad	1065_ITS_NEU_XX.wav
+./datasets/cremad/AudioWAV/1024_TAI_SAD_XX.wav	sadness	cremad	1024_TAI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1029_IWL_ANG_XX.wav	anger	cremad	1029_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1017_IEO_ANG_MD.wav	anger	cremad	1017_IEO_ANG_MD.wav
+./datasets/cremad/AudioWAV/1058_WSI_NEU_XX.wav	neutral	cremad	1058_WSI_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M03S13.wav	sadness	shemo	M03S13.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M09A17.wav	anger	shemo	M09A17.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_lot_sad.wav	sadness	tess	OAF_lot_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N10.wav	neutral	shemo	M04N10.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lore_angry.wav	anger	tess	YAF_lore_angry.wav
+./datasets/cremad/AudioWAV/1070_IWL_HAP_XX.wav	happy	cremad	1070_IWL_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A27.wav	anger	shemo	F07A27.wav
+./datasets/cremad/AudioWAV/1032_ITH_SAD_XX.wav	sadness	cremad	1032_ITH_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M53A16.wav	anger	shemo	M53A16.wav
+./datasets/ravdess-emotional-speech-audio/Actor_23/03-01-04-02-02-02-23.wav	sadness	ravdess	03-01-04-02-02-02-23.wav
+./datasets/cremad/AudioWAV/1003_DFA_NEU_XX.wav	neutral	cremad	1003_DFA_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M14N02.wav	neutral	shemo	M14N02.wav
+./datasets/cremad/AudioWAV/1064_IOM_HAP_XX.wav	happy	cremad	1064_IOM_HAP_XX.wav
+./datasets/cremad/AudioWAV/1084_IEO_HAP_MD.wav	happy	cremad	1084_IEO_HAP_MD.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-04-02-02-01-03.wav	sadness	ravdess	03-01-04-02-02-01-03.wav
+./datasets/ravdess-emotional-speech-audio/Actor_08/03-01-01-01-01-02-08.wav	neutral	ravdess	03-01-01-01-01-02-08.wav
+./datasets/cremad/AudioWAV/1011_TIE_NEU_XX.wav	neutral	cremad	1011_TIE_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_chain_happy.wav	happy	tess	OAF_chain_happy.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sour_angry.wav	anger	tess	YAF_sour_angry.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_south_happy.wav	happy	tess	YAF_south_happy.wav
+./datasets/cremad/AudioWAV/1029_IWW_SAD_XX.wav	sadness	cremad	1029_IWW_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_neat_angry.wav	anger	tess	YAF_neat_angry.wav
+./datasets/cremad/AudioWAV/1025_TAI_ANG_XX.wav	anger	cremad	1025_TAI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1026_ITS_NEU_XX.wav	neutral	cremad	1026_ITS_NEU_XX.wav
+./datasets/cremad/AudioWAV/1055_TAI_NEU_XX.wav	neutral	cremad	1055_TAI_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_21/03-01-04-02-02-02-21.wav	sadness	ravdess	03-01-04-02-02-02-21.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F04A05.wav	anger	shemo	F04A05.wav
+./datasets/cremad/AudioWAV/1013_IEO_SAD_MD.wav	sadness	cremad	1013_IEO_SAD_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_gas_happy.wav	happy	tess	OAF_gas_happy.wav
+./datasets/cremad/AudioWAV/1003_TSI_ANG_XX.wav	anger	cremad	1003_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1065_MTI_ANG_XX.wav	anger	cremad	1065_MTI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07H12.wav	happy	shemo	F07H12.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M34A09.wav	anger	shemo	M34A09.wav
+./datasets/cremad/AudioWAV/1078_ITS_SAD_XX.wav	sadness	cremad	1078_ITS_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_have_neutral.wav	neutral	tess	YAF_have_neutral.wav
+./datasets/cremad/AudioWAV/1089_TSI_NEU_XX.wav	neutral	cremad	1089_TSI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1020_IEO_SAD_HI.wav	sadness	cremad	1020_IEO_SAD_HI.wav
+./datasets/cremad/AudioWAV/1090_IOM_ANG_XX.wav	anger	cremad	1090_IOM_ANG_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/12a01Nb.wav	neutral	emodb	12a01Nb.wav
+./datasets/cremad/AudioWAV/1068_IEO_HAP_MD.wav	happy	cremad	1068_IEO_HAP_MD.wav
+./datasets/cremad/AudioWAV/1077_IWW_HAP_XX.wav	happy	cremad	1077_IWW_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_time_neutral.wav	neutral	tess	OAF_time_neutral.wav
+./datasets/cremad/AudioWAV/1089_TIE_HAP_XX.wav	happy	cremad	1089_TIE_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_raise_angry.wav	anger	tess	YAF_raise_angry.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/11b09Na.wav	neutral	emodb	11b09Na.wav
+./datasets/cremad/AudioWAV/1050_IOM_SAD_XX.wav	sadness	cremad	1050_IOM_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12N67.wav	neutral	shemo	M12N67.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21N16.wav	neutral	shemo	F21N16.wav
+./datasets/cremad/AudioWAV/1049_TIE_HAP_XX.wav	happy	cremad	1049_TIE_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M22A06.wav	anger	shemo	M22A06.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F08N01.wav	neutral	shemo	F08N01.wav
+./datasets/cremad/AudioWAV/1048_TSI_HAP_XX.wav	happy	cremad	1048_TSI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1035_IEO_HAP_MD.wav	happy	cremad	1035_IEO_HAP_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_cheek_angry.wav	anger	tess	YAF_cheek_angry.wav
+./datasets/cremad/AudioWAV/1057_IEO_ANG_HI.wav	anger	cremad	1057_IEO_ANG_HI.wav
+./datasets/cremad/AudioWAV/1082_IEO_HAP_HI.wav	happy	cremad	1082_IEO_HAP_HI.wav
+./datasets/cremad/AudioWAV/1052_TAI_HAP_XX.wav	happy	cremad	1052_TAI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1084_WSI_SAD_XX.wav	sadness	cremad	1084_WSI_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F22A03.wav	anger	shemo	F22A03.wav
+./datasets/cremad/AudioWAV/1063_IWL_ANG_XX.wav	anger	cremad	1063_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1032_TAI_NEU_XX.wav	neutral	cremad	1032_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1053_TSI_SAD_XX.wav	sadness	cremad	1053_TSI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1043_IEO_NEU_XX.wav	neutral	cremad	1043_IEO_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M28S15.wav	sadness	shemo	M28S15.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07H03.wav	happy	shemo	F07H03.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M21H01.wav	happy	shemo	M21H01.wav
+./datasets/cremad/AudioWAV/1009_IEO_SAD_MD.wav	sadness	cremad	1009_IEO_SAD_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A39.wav	anger	shemo	M12A39.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M07H02.wav	happy	shemo	M07H02.wav
+./datasets/cremad/AudioWAV/1085_ITS_ANG_XX.wav	anger	cremad	1085_ITS_ANG_XX.wav
+./datasets/cremad/AudioWAV/1061_TAI_HAP_XX.wav	happy	cremad	1061_TAI_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M27N44.wav	neutral	shemo	M27N44.wav
+./datasets/cremad/AudioWAV/1064_DFA_HAP_XX.wav	happy	cremad	1064_DFA_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M12A35.wav	anger	shemo	M12A35.wav
+./datasets/cremad/AudioWAV/1067_IOM_NEU_XX.wav	neutral	cremad	1067_IOM_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26N03.wav	neutral	shemo	M26N03.wav
+./datasets/cremad/AudioWAV/1059_TIE_NEU_XX.wav	neutral	cremad	1059_TIE_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_17/03-01-04-02-01-02-17.wav	sadness	ravdess	03-01-04-02-01-02-17.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_chalk_sad.wav	sadness	tess	YAF_chalk_sad.wav
+./datasets/cremad/AudioWAV/1073_IEO_HAP_MD.wav	happy	cremad	1073_IEO_HAP_MD.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A22.wav	anger	shemo	F07A22.wav
+./datasets/cremad/AudioWAV/1004_IEO_HAP_LO.wav	happy	cremad	1004_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1013_IWL_SAD_XX.wav	sadness	cremad	1013_IWL_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F23A15.wav	anger	shemo	F23A15.wav
+./datasets/cremad/AudioWAV/1058_TIE_NEU_XX.wav	neutral	cremad	1058_TIE_NEU_XX.wav
+./datasets/cremad/AudioWAV/1030_TSI_HAP_XX.wav	happy	cremad	1030_TSI_HAP_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_20/03-01-05-01-01-02-20.wav	anger	ravdess	03-01-05-01-01-02-20.wav
+./datasets/cremad/AudioWAV/1071_WSI_NEU_XX.wav	neutral	cremad	1071_WSI_NEU_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_cool_sad.wav	sadness	tess	YAF_cool_sad.wav
+./datasets/cremad/AudioWAV/1066_ITH_ANG_XX.wav	anger	cremad	1066_ITH_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M38N02.wav	neutral	shemo	M38N02.wav
+./datasets/cremad/AudioWAV/1076_ITS_ANG_XX.wav	anger	cremad	1076_ITS_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_10/03-01-04-01-02-01-10.wav	sadness	ravdess	03-01-04-01-02-01-10.wav
+./datasets/cremad/AudioWAV/1022_IWL_NEU_XX.wav	neutral	cremad	1022_IWL_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_03/03-01-05-02-02-01-03.wav	anger	ravdess	03-01-05-02-02-01-03.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/10a02Wa.wav	anger	emodb	10a02Wa.wav
+./datasets/cremad/AudioWAV/1091_IWL_NEU_XX.wav	neutral	cremad	1091_IWL_NEU_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/08b09Tb.wav	sadness	emodb	08b09Tb.wav
+./datasets/cremad/AudioWAV/1007_ITH_SAD_XX.wav	sadness	cremad	1007_ITH_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_choice_sad.wav	sadness	tess	OAF_choice_sad.wav
+./datasets/cremad/AudioWAV/1090_TAI_NEU_XX.wav	neutral	cremad	1090_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1061_ITH_SAD_XX.wav	sadness	cremad	1061_ITH_SAD_XX.wav
+./datasets/cremad/AudioWAV/1003_TAI_SAD_XX.wav	sadness	cremad	1003_TAI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1059_ITH_HAP_XX.wav	happy	cremad	1059_ITH_HAP_XX.wav
+./datasets/cremad/AudioWAV/1001_IEO_SAD_HI.wav	sadness	cremad	1001_IEO_SAD_HI.wav
+./datasets/cremad/AudioWAV/1063_MTI_SAD_XX.wav	sadness	cremad	1063_MTI_SAD_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/03a07Nc.wav	neutral	emodb	03a07Nc.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M14N03.wav	neutral	shemo	M14N03.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_ton_sad.wav	sadness	tess	YAF_ton_sad.wav
+./datasets/cremad/AudioWAV/1053_MTI_SAD_XX.wav	sadness	cremad	1053_MTI_SAD_XX.wav
+./datasets/cremad/AudioWAV/1063_IEO_SAD_HI.wav	sadness	cremad	1063_IEO_SAD_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F30H05.wav	happy	shemo	F30H05.wav
+./datasets/cremad/AudioWAV/1009_IWL_HAP_XX.wav	happy	cremad	1009_IWL_HAP_XX.wav
+./datasets/cremad/AudioWAV/1005_IOM_HAP_XX.wav	happy	cremad	1005_IOM_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sure_angry.wav	anger	tess	YAF_sure_angry.wav
+./datasets/cremad/AudioWAV/1063_ITS_HAP_XX.wav	happy	cremad	1063_ITS_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_Sad/OAF_pass_sad.wav	sadness	tess	OAF_pass_sad.wav
+./datasets/cremad/AudioWAV/1082_IEO_HAP_LO.wav	happy	cremad	1082_IEO_HAP_LO.wav
+./datasets/cremad/AudioWAV/1072_TSI_ANG_XX.wav	anger	cremad	1072_TSI_ANG_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_haze_happy.wav	happy	tess	OAF_haze_happy.wav
+./datasets/cremad/AudioWAV/1071_IEO_SAD_HI.wav	sadness	cremad	1071_IEO_SAD_HI.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F13A18.wav	anger	shemo	F13A18.wav
+./datasets/cremad/AudioWAV/1024_IEO_NEU_XX.wav	neutral	cremad	1024_IEO_NEU_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_15/03-01-03-02-02-01-15.wav	happy	ravdess	03-01-03-02-02-01-15.wav
+./datasets/cremad/AudioWAV/1091_TAI_NEU_XX.wav	neutral	cremad	1091_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1007_TIE_SAD_XX.wav	sadness	cremad	1007_TIE_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F10A49.wav	anger	shemo	F10A49.wav
+./datasets/cremad/AudioWAV/1049_IEO_SAD_MD.wav	sadness	cremad	1049_IEO_SAD_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pearl_angry.wav	anger	tess	YAF_pearl_angry.wav
+./datasets/cremad/AudioWAV/1013_MTI_HAP_XX.wav	happy	cremad	1013_MTI_HAP_XX.wav
+./datasets/cremad/AudioWAV/1012_TIE_ANG_XX.wav	anger	cremad	1012_TIE_ANG_XX.wav
+./datasets/cremad/AudioWAV/1021_MTI_ANG_XX.wav	anger	cremad	1021_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1064_TAI_NEU_XX.wav	neutral	cremad	1064_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1091_IEO_HAP_MD.wav	happy	cremad	1091_IEO_HAP_MD.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_jar_angry.wav	anger	tess	YAF_jar_angry.wav
+./datasets/cremad/AudioWAV/1063_IEO_HAP_LO.wav	happy	cremad	1063_IEO_HAP_LO.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F21N19.wav	neutral	shemo	F21N19.wav
+./datasets/cremad/AudioWAV/1015_ITS_HAP_XX.wav	happy	cremad	1015_ITS_HAP_XX.wav
+./datasets/berlin-database-of-emotional-speech-emodb/wav/15b10Nc.wav	neutral	emodb	15b10Nc.wav
+./datasets/cremad/AudioWAV/1067_ITH_HAP_XX.wav	happy	cremad	1067_ITH_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M44N16.wav	neutral	shemo	M44N16.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_hate_neutral.wav	neutral	tess	OAF_hate_neutral.wav
+./datasets/cremad/AudioWAV/1052_IOM_ANG_XX.wav	anger	cremad	1052_IOM_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M22N24.wav	neutral	shemo	M22N24.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F30A08.wav	anger	shemo	F30A08.wav
+./datasets/cremad/AudioWAV/1051_ITS_ANG_XX.wav	anger	cremad	1051_ITS_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M14S01.wav	sadness	shemo	M14S01.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_came_angry.wav	anger	tess	YAF_came_angry.wav
+./datasets/cremad/AudioWAV/1033_IEO_SAD_HI.wav	sadness	cremad	1033_IEO_SAD_HI.wav
+./datasets/cremad/AudioWAV/1001_DFA_HAP_XX.wav	happy	cremad	1001_DFA_HAP_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F07A46.wav	anger	shemo	F07A46.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_happy/OAF_beg_happy.wav	happy	tess	OAF_beg_happy.wav
+./datasets/cremad/AudioWAV/1006_WSI_HAP_XX.wav	happy	cremad	1006_WSI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sour_happy.wav	happy	tess	YAF_sour_happy.wav
+./datasets/cremad/AudioWAV/1054_MTI_SAD_XX.wav	sadness	cremad	1054_MTI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_angry/OAF_gin_angry.wav	anger	tess	OAF_gin_angry.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M26N04.wav	neutral	shemo	M26N04.wav
+./datasets/cremad/AudioWAV/1039_IWL_ANG_XX.wav	anger	cremad	1039_IWL_ANG_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_08/03-01-04-02-01-01-08.wav	sadness	ravdess	03-01-04-02-01-01-08.wav
+./datasets/ravdess-emotional-speech-audio/Actor_13/03-01-05-01-02-02-13.wav	anger	ravdess	03-01-05-01-02-02-13.wav
+./datasets/ravdess-emotional-speech-audio/Actor_23/03-01-04-01-01-01-23.wav	sadness	ravdess	03-01-04-01-01-01-23.wav
+./datasets/ravdess-emotional-speech-audio/Actor_05/03-01-03-02-02-01-05.wav	happy	ravdess	03-01-03-02-02-01-05.wav
+./datasets/cremad/AudioWAV/1088_IEO_ANG_MD.wav	anger	cremad	1088_IEO_ANG_MD.wav
+./datasets/cremad/AudioWAV/1034_ITS_SAD_XX.wav	sadness	cremad	1034_ITS_SAD_XX.wav
+./datasets/ravdess-emotional-speech-audio/Actor_12/03-01-05-01-01-02-12.wav	anger	ravdess	03-01-05-01-01-02-12.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04N27.wav	neutral	shemo	M04N27.wav
+./datasets/cremad/AudioWAV/1070_IOM_HAP_XX.wav	happy	cremad	1070_IOM_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_turn_sad.wav	sadness	tess	YAF_turn_sad.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M31N08.wav	neutral	shemo	M31N08.wav
+./datasets/cremad/AudioWAV/1076_TSI_HAP_XX.wav	happy	cremad	1076_TSI_HAP_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_search_sad.wav	sadness	tess	YAF_search_sad.wav
+./datasets/ravdess-emotional-speech-audio/Actor_11/03-01-05-01-02-02-11.wav	anger	ravdess	03-01-05-01-02-02-11.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F01A02.wav	anger	shemo	F01A02.wav
+./datasets/cremad/AudioWAV/1040_ITS_ANG_XX.wav	anger	cremad	1040_ITS_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F03S11.wav	sadness	shemo	F03S11.wav
+./datasets/savee-database/AudioData/KL/a13.wav	anger	savee	a13.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_neutral/YAF_lot_neutral.wav	neutral	tess	YAF_lot_neutral.wav
+./datasets/cremad/AudioWAV/1045_TIE_NEU_XX.wav	neutral	cremad	1045_TIE_NEU_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/female/F29N01.wav	neutral	shemo	F29N01.wav
+./datasets/cremad/AudioWAV/1031_IEO_ANG_LO.wav	anger	cremad	1031_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1089_TIE_SAD_XX.wav	sadness	cremad	1089_TIE_SAD_XX.wav
+./datasets/cremad/AudioWAV/1085_TAI_NEU_XX.wav	neutral	cremad	1085_TAI_NEU_XX.wav
+./datasets/cremad/AudioWAV/1050_IOM_NEU_XX.wav	neutral	cremad	1050_IOM_NEU_XX.wav
+./datasets/cremad/AudioWAV/1090_IWL_ANG_XX.wav	anger	cremad	1090_IWL_ANG_XX.wav
+./datasets/cremad/AudioWAV/1032_DFA_SAD_XX.wav	sadness	cremad	1032_DFA_SAD_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M44N19.wav	neutral	shemo	M44N19.wav
+./datasets/cremad/AudioWAV/1044_IEO_ANG_LO.wav	anger	cremad	1044_IEO_ANG_LO.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_limb_angry.wav	anger	tess	YAF_limb_angry.wav
+./datasets/cremad/AudioWAV/1048_MTI_ANG_XX.wav	anger	cremad	1048_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1045_TSI_ANG_XX.wav	anger	cremad	1045_TSI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1040_WSI_SAD_XX.wav	sadness	cremad	1040_WSI_SAD_XX.wav
+./datasets/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/OAF_neutral/OAF_goose_neutral.wav	neutral	tess	OAF_goose_neutral.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M46A03.wav	anger	shemo	M46A03.wav
+./datasets/cremad/AudioWAV/1079_IOM_ANG_XX.wav	anger	cremad	1079_IOM_ANG_XX.wav
+./datasets/cremad/AudioWAV/1015_ITS_SAD_XX.wav	sadness	cremad	1015_ITS_SAD_XX.wav
+./datasets/cremad/AudioWAV/1013_MTI_ANG_XX.wav	anger	cremad	1013_MTI_ANG_XX.wav
+./datasets/cremad/AudioWAV/1074_IEO_ANG_LO.wav	anger	cremad	1074_IEO_ANG_LO.wav
+./datasets/cremad/AudioWAV/1042_ITH_ANG_XX.wav	anger	cremad	1042_ITH_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M04S03.wav	sadness	shemo	M04S03.wav
+./datasets/cremad/AudioWAV/1024_TSI_ANG_XX.wav	anger	cremad	1024_TSI_ANG_XX.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M27N27.wav	neutral	shemo	M27N27.wav
+./datasets/shemo-persian-speech-emotion-detection-database/male/M02N10.wav	neutral	shemo	M02N10.wav
+./datasets/cremad/AudioWAV/1047_ITS_HAP_XX.wav	happy	cremad	1047_ITS_HAP_XX.wav
+./datasets/savee-database/AudioData/JE/n12.wav	neutral	savee	n12.wav
+./datasets/cremad/AudioWAV/1014_ITH_HAP_XX.wav	happy	cremad	1014_ITH_HAP_XX.wav
