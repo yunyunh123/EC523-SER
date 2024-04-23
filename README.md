@@ -38,15 +38,11 @@ print(label)
 trainloader = DataLoader(trainset, batch_size=4, shuffle=True, num_workers=1)
 ```
 
-Datasets currently being used:
-* EMODB (german)
-* CREMAD (english)
-* RAVDESS (english)
-* SAVEE (english)
-* TESS (english)
-* SHEMO (persian)
+# Our experimental design
 
-| Emotion | Database | --- | --- | --- | --- | --- |
+We chose 6 popular databases of audio, each containing collections of raw audio with corresponding emotion labels.  Each dataset different emotion labels and different numbers of .wav files for each emotion, detailed in the table below:
+
+| Emotion | Datasets | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | CREMAD | EMODB | RAVDESS | SAVEE | SHEMO | TESS |
 | anger | 1271 | 127 | 192 | 60 | 1059 | 400 |
@@ -61,15 +57,10 @@ Datasets currently being used:
 | surprise | x | x | 192 | 60 | 225 | 400 |
 | Language: | English | German | English | English | Persian | English |
 
-
-Emotions in datasets:
-* neutral
-* happy
-* sadness
-* disgust
-* anger
-* surprise
-* fear
-* anxiety
-* bored
-* calm
+Datasets used for this project:
+* EMODB (german) - https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb
+* CREMAD (english) - https://github.com/CheyneyComputerScience/CREMA-D
+* RAVDESS (english) - https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+* SAVEE (english) - https://www.kaggle.com/datasets/barelydedicated/savee-database
+* TESS (english) - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+* SHEMO (persian) - https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database
