@@ -1,9 +1,16 @@
 # EC523-SER
-
 ---
+# Overview
+---
+**A Multilingual Speech Emotion Recognition Model**
+
+This repository contains the source code and documentation for these three advanced deep learning models that we have implemented and analyzed:
+* **Wav2Vec** (Wav2Vec2_SER.ipynb)
+* **2D-CNN/LSTM with Attention** (2DCNN_LSTM.ipynb)
+* **S4** (S4_model.ipynb)
 
 # Getting started with datasets
-
+---
 This shows how to use some of the functions to get audio data into a format to use with pytorch
 
 For downloading data if you have a "kaggle.json" file you can change directory to where that file is and you won't have to enter username and password for kaggle in order to download that dataset
@@ -39,8 +46,8 @@ trainloader = DataLoader(trainset, batch_size=4, shuffle=True, num_workers=1)
 ```
 
 # Our experimental design
-
-We chose 6 popular databases of audio, each containing collections of raw audio with corresponding emotion labels. Each dataset different emotion labels and different numbers of .wav files for each emotion, detailed in the table below:
+---
+We chose 6 popular databases of audio, each containing collections of raw audio with corresponding emotion labels. Each dataset has different emotion labels and different numbers of .wav files for each emotion, detailed in the table below:
 
 | Emotion | Datasets | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -65,19 +72,22 @@ Datasets used for this project:
 * TESS (english) - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 * SHEMO (persian) - https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database
 
-Then, we trained and fine-tined three different models (Wav2Vec, CNN, and S4) on these datasets (70% training, 20% testing, 10% validation).  Specifically, we used the four emotions common to all models ```[anger, happy, neutral, sadness]```, but the functionality exists to use all emotions independently within the code.
+Then, we trained and fine-tined three different models (Wav2Vec, 2DCNN_LSTM, and S4) on these datasets (70% training, 20% testing, 10% validation).  Specifically, we used the four emotions common to all models ```[anger, happy, neutral, sadness]```, but the functionality exists to use all emotions independently within the code.
 
 # Our Models
-
+---
 ## Wav2Vec
 We adapted an existing Wav2Vec model and fine-tuned it on our specific datasets.
 https://huggingface.co/docs/transformers/model_doc/wav2vec2
 
-## CNN
-We built a CNN similar to the architecture described in the following source:
+## 2D-CNN/LSTM with Attention
+We referenced following source to build our 2D-CNN/LSTM model:
 ```
 W. Alsabhan. Human-Computer Interaction with a Real-Time Speech Emotion Recognition with Ensembling Techniques 1D Convolution Neural Network with Attention, Sensors, 2023. https://doi.org/10.3390/s23031386
 ```
+However, instead of 1D-CNN, we used 2D-CNN in order to take in 2D Mel spectrograms. 
+
+Because the paper does not have a public repository, we created, trained, and tuned 2D-CNN/LSTM model from scratch.
 
 ## S4
 We adapted the S4 implementation taken from the following repository:
